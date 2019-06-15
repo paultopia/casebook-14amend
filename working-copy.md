@@ -10,6 +10,8 @@ links-as-notes: true
 fontsize: 11pt
 ---
 
+
+
 ## Note to Students
 
 This cases in this collection were collected and edited from an online open casebook service provided by the HLS Law Library.  You can view a web version of the casebook at [https://opencasebook.org/casebooks/148049-14th-amendment-course](https://opencasebook.org/casebooks/148049-14th-amendment-course).  
@@ -20,7 +22,15 @@ As a result, there are undoubtedly a number of partial citations, floating numbe
 
 This casebook is entirely composed of U.S. Supreme Court cases (which are not subject to copyright), plus materials written by me are (c) [Paul Gowder](https://gowder.io), 2017-2019 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). 
 
+
+
+\newpage
+
 # Procedural Due Process
+
+
+
+\newpage
 
 ### Introductory Note on Procedural Due Process
 
@@ -167,6 +177,10 @@ STEP 3: Apply *Matthews* balancing
 - Would additional process make the government decision more accurate?
 
 
+
+
+\newpage
+
 ### Goldberg v. Kelly
 
 397 U.S. 254 (1970)
@@ -247,6 +261,10 @@ For the foregoing reasons I dissent from the Court's holding. The operation of a
 I am aware that some feel that the process employed in reaching today's decision is not dependent on the individual views of the Justices involved, but is a mere objective search for the "collective conscience of mankind," but in my view that description is only a euphemism for an individual's judgment. Judges are as human as anyone and as likely as others to see the world through their own eyes and find the "collective conscience" remarkably similar to their own. 
 
 To realize how uncertain a standard of "fundamental fairness" would be, one has only to reflect for a moment on the possible disagreement if the "fairness" of the procedure in this case were propounded to the head of the National Welfare Rights Organization, the president of the national Chamber of Commerce, and the chairman of the John Birch Society.
+
+
+
+\newpage
 
 ### Mathews v. Eldridge
 
@@ -336,6 +354,10 @@ The judgment of the Court of Appeals is Reversed.
 
 **MR. JUSTICE BRENNAN, with whom MR. JUSTICE MARSHALL concurs, dissenting.** For the reasons stated in my dissenting opinion in Richardson v. Wright, I agree with the District Court and the Court of Appeals that, prior to termination of benefits, Eldridge must be afforded an evidentiary hearing of the type required for welfare beneficiaries under Title IV of the Social Security Act, 42 U. S. C. § 601 et seq. See Goldberg v. Kelly. I would add that the Court's consideration that a discontinuance of disability benefits may cause the recipient to suffer only a limited deprivation is no argument. It is speculative. Moreover, the very legislative determination to provide disability benefits, without any prerequisite determination of need in fact, presumes a need by the recipient which is not this Court's function to denigrate. Indeed, in the present case, it is indicated that because disability benefits were terminated there was a foreclosure upon the Eldridge home and the family's furniture was repossessed, forcing Eldridge, his wife, and their children to sleep in one bed. Tr. of Oral Arg. 39, 47-48. Finally, it is also no argument that a worker, who has been placed in the untenable position of having been denied disability benefits, may still seek other forms of public assistance.
 
+
+
+\newpage
+
 ### Londoner v. City and County of Denver
 
 210 U.S. 373 (1908)
@@ -410,6 +432,10 @@ Judgment reversed.
 
 THE CHIEF JUSTICE and MR. JUSTICE HOLMES dissent.
 
+
+
+\newpage
+
 ### Bi-Metallic Investment Co. v. State Board of Equalization of Colorado
 
 239 U.S. 441 (1915)
@@ -421,6 +447,10 @@ For the purposes of decision we assume that the constitutional question is prese
 Where a rule of conduct applies to more than a few people it is impracticable that every one should have a direct voice in its adoption. The Constitution does not require all public acts to be done in town meeting or an assembly of the whole. General statutes within the state power are passed that affect the person or property of individuals, sometimes to the point of ruin, without giving them a chance to be heard. Their rights are protected in the only way that they can be in a complex society, by their power, immediate or remote, over those who make the rule. If the result in this case had been reached as it might have been by the State's doubling the rate of taxation, no one would suggest that the Fourteenth Amendment was violated unless every person affected had been allowed an opportunity to raise his voice against it before the body entrusted by the state constitution with the power. In considering this case in this court we must assume that the proper state machinery has been used, and the question is whether, if the state constitution had declared that Denver had been undervalued as compared with the rest of the State and had decreed that for the current year the valuation should be forty per cent. higher, the objection now urged could prevail. It appears to us that to put the question is to answer it. There must be a limit to individual argument in such matters if government is to go on. In Londoner v. Denver, 385, a local board had to determine'whether, in what amount, and upon whom' a tax for paving a street should be levied for special benefits. A relatively small number of persons was concerned, who were exceptionally affected, in each case upon individual grounds, and it was held that they had a right to a hearing. But that decision is far from reaching a general determination dealing only with the principle upon which all the assessments in a county had been laid.
 
 Judgment affirmed.
+
+
+
+\newpage
 
 ### Hamdi v. Rumsfeld
 
@@ -843,9 +873,21 @@ Notes:
 
 ---------------
 
+
+
+\newpage
+
 # Substantive Due Process
 
+
+
+\newpage
+
 ## Incorporation
+
+
+
+\newpage
 
 ### Slaughter-House Cases
 
@@ -961,6 +1003,10 @@ But, however pervading this sentiment, and however it may have contributed to th
 
 But whatever fluctuations may be seen in the history of public opinion on this subject during the period of our national existence, we think it will be found that this court, so far as its functions required, has always held with a steady and an even hand the balance between State and Federal power, and we trust that such may continue to be the history of its relation to that subject so long as it shall have duties to perform which demand of it a construction of the Constitution, or of any of its parts.
 
+
+
+\newpage
+
 ### Note on Incorporation
 
 The basic problem that incorporation solves is really simple: the Bill of Rights only, on its terms, applies to the federal government.  It's full of lines like "Congress shall make no law," rather than "the states shall make no law." 
@@ -988,6 +1034,10 @@ The key debate was between total incorporationists and partial incorporationists
 So instead of incorporating the whole thing, the Court incorporated the Bill of Rights in drips and drabs, and still hasn't incorporated it all. In particular, the Court has explicitly held that the civil jury trial right in the 7th amendment hasn't been incorporated, and neither has the grand jury in criminal cases. Those are the most important ones, where the Court explicitly held "no incorporation," but there are also a few provisions where the Court hasn't reached the question, like the 3rd amendment (of course). But the broad idea, which we'll see in detail when we get to our case for this material, is that the Court incorporates the stuff that seems really really important. As I noted earlier, we see language about "fundamental rights" making an appearance here, and it will connect closely to our next module.
 
 Incidentally, lest you think that surely by now the Court would have done all the incorporating it means to do, it may interest you to learn that on February 20, 2019, the Court finally got around to incorporating the 8th Amendment's Excessive Fines Clause in [Timbs v. Indiana](https://www.scotusblog.com/case-files/cases/timbs-v-indiana/).
+
+
+
+\newpage
 
 ### Adamson v. California
 
@@ -1040,6 +1090,10 @@ But these limitations were not expressly imposed upon state court action. In 183
 My study of the historical events that culminated in the Fourteenth Amendment, and the expressions of those who sponsored and favored, as well as those who opposed its submission and passage, persuades me that one of the chief objects that the provisions of the Amendment’s first section, separately, and as a whole, were intended to accomplish was to make the Bill of Rights, applicable to the states  With full knowledge of the import of the Barron decision, the framers and backers of the Fourteenth Amendment proclaimed its purpose to be to overturn the constitutional rule that case had announced. This historical purpose has never received full consideration or exposition in any opinion of this Court interpreting the Amendment.
 
 For this reason, I am attaching to this dissent an appendix which contains a résumé, by no means complete, of the Amendment’s history. In my judgment that history conclusively demonstrates that the language of the first section of the Fourteenth Amendment, taken as a whole, was thought by those responsible for its submission to the people, and by those who opposed its submission, sufficiently explicit to guarantee that thereafter no state could deprive its citizens of the privileges and protections of the Bill of Rights. Whether this Court ever will, or whether it now should, in the light of past decisions, give full effect to what the Amendment was intended to accomplish is not necessarily essential to a decision here. However that may be, our prior decisions, including Twining, do not prevent our carrying out that purpose, at least to the extent of making applicable to the states, not a mere part, as the Court has, .but the full protection of the Fifth Amendment’s provision against compelling evidence from an accused to convict him of crime. And I further contend that the “natural law” formula which the Court uses to reach its conclusion in this case should be abandoned as an incongruous excrescence on our Constitution. I believe that formula to be itself a violation of our Constitution, in that it subtly conveys to courts, at the expense of legislatures, ultimate power over public policies in fields where no specific provision of the Constitution limits legislative power. And my belief seems to be in accord with the views expressed by this Court, at least for the first two decades after the Fourteenth Amendment was adopted.
+
+
+
+\newpage
 
 ### McDonald v. City of Chicago
 
@@ -1481,7 +1535,15 @@ Given the empirical and local value-laden nature of the questions that lie at th
 
 In sum, the police power, the superiority of legislative decisionmaking, the need for local decisionmaking, the comparative desirability of democratic decisionmaking, the lack of a manageable judicial standard, and the life-threatening harm that may flow from striking down regulations all argue against incorporation. Where the incorporation of other rights has been at issue, some of these problems have arisen. But in this instance all these problems are present, all at the same time, and all are likely to be present in most, perhaps nearly all, of the cases in which the constitutionality of a gun regulation is at issue. At the same time, the important factors that favor incorporation in other instances— e.g., the protection of broader constitutional objectives—are not present here. The upshot is that all factors militate against incorporation—with the possible exception of historical factors.
 
+
+
+\newpage
+
 ## Fundamental Rights
+
+
+
+\newpage
 
 ### Note on Fundamental Rights
 
@@ -1533,6 +1595,10 @@ Nonetheless, "substantive due process" is what the Court has given us. And typic
 
 So we all have to pretend like we're talking about due process when we do fundamental rights jurisprudence, because those are the words the Supreme Court has told us we have to say, even if they don't make any sense. Legal formalism, thy name is substantive due process.
 
+
+
+
+\newpage
 
 ### Note on Levels of Scrutiny
 
@@ -1590,6 +1656,10 @@ Thinking about the First Amendment helps us see the absurdity of the notion of f
 Here's the thing. From a pure textual standpoint, isn't Justice Black actually exactly right? "No law" isn't exactly ambiguous! Even strict scrutiny seems like a weird idea in the context of things like the enumerated rights: the Constitution doesn't say "Congress shall make no law ... abridging the freedom of speech unless it's narrowly tailored to a compelling government interest." Nor, for that matter, does it say "Nor shall any state ... deny to any person within its jurisdiction the equal protection of the laws unless it's narrowly tailored to a compelling government interest."
 
 When we think of that logic, which clearly poses serious problems for the application of any level of scrutiny to the enumerated rights (except for stuff like the 4th and 8th amendments which actually write ideas like "unreasonable" and "cruel and unusual" into the text), we might also want to worry that the same problem shows up for the unenumerated rights. If there really is a pre-constitutional right to something, then on what basis does Congress or a state legislature deprive an individual of it? What kind of right is it, ultimately, that can be infringed if the government has a really good reason, and why should the standard for really good reason even formally be the same in all these cases (albeit not necessarily actually)? Certainly the idea of due process, even if it includes enforcing unenumerated rights, doesn't also include some kind of strict scrutiny test. So arguably there's a deeply unprincipled analytic strategy at the heart of this whole body of law. But it's what we got.
+
+
+
+\newpage
 
 ### Lochner v. New York
 
@@ -1715,6 +1785,10 @@ When this court had before it the question of the constitutionality of a statute
 
 The judgment, in my opinion, should be affirmed.
 
+
+
+\newpage
+
 ### United States v. Carolene Products Co.
 
 304 U.S. 144 (1938)
@@ -1745,6 +1819,10 @@ The prohibition of shipment in interstate commerce of appellee's product, as des
 
 There may be narrower scope for operation of the presumption of constitutionality when legislation appears on its face to be within a specific prohibition of the Constitution, such as those of the first ten Amendments, which are deemed equally specific when held to be embraced within the Fourteenth. See Stromberg v. California, 370, 536, 73 A.L.R. 1484; Lovell v. Griffindecided March 28, 1938. It is unnecessary to consider now whether legislation which restricts those political processes which can ordinarily be expected to bring about repeal of undesirable legislation, is to be subjected to more exacting judicial scrutiny under the general prohibitions of the Fourteenth Amendment than are most other types of legislation. On restrictions upon the right to vote, see Nixon v. Herndon; Nixon v. Condon88 A.L.R. 458; on restraints upon the dissemination of information, see Near v. Minnesota, 722, 632, 633, ; Grosjean v. American Press Co.; Lovell v. Griffin; on interferences with political organizations, see Stromberg v. California, 73 A.L.R. 1484; Fiske v. Kansas; Whitney v. California, ; Herndon v. Lowry; and see Holmes, J., in Gitlow v. New York, ; as to prohibition of peaceable assembly, see De Jonge v. Oregon, Nor need we enquire whether similar considerations enter into the review of statutes directed at particular religious, Pierce v. Society of Sisters39 A.L.R. 468, or national, Meyer v. Nebraska29 A.L.R. 1446; Bartels v. Iowa; Farrington v. Tokushigeor racial minorities. Nixon v. Herndon; Nixon v. Condon; whether prejudice against discrete and insular minorities may be a special condition, which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities, and which may call for a correspondingly more searching judicial inquiry. Compare McCulloch v. Maryland, 4 Wheat. 316, 428, ; South Carolina State Highway Department v. Barnwell Bros.decided February 14, 1938, note 2, and cases cited.
 
+
+
+\newpage
+
 ### Note on the Notion of Economic Fundamental Rights
 
 After the fall of Lochner, the basic rule is that constitutional challenges to economic regulation only get rational basis scrutiny.
@@ -1770,6 +1848,10 @@ The second is the issue of corruption, or what economists call "rent-seeking." T
 But the thing about the law that the Court upheld in this case is that it was blatantly corrupt. It prevented an optician from replacing the lenses in glasses without a new prescription from an optometrist. And we know why the law was enacted, or at least many people think we do: because some optometrists had cronies in the legislature, and they wanted to make a law to get more business. The district court tried to strike the law down under a rational basis standard; the court reversed. But should it have? Is it part of the proper role of the judiciary to guard against this kind of corrupt regulation? Should rent-seeking be constitutionally cognizable?
 
 
+
+
+\newpage
+
 ### Exercise: Career Counseling
 
 The state of Goldacre enacts the following law:
@@ -1792,6 +1874,10 @@ The state of Goldacre enacts the following law:
 Your group should write down an answer to each of those questions, as well as a brief explanation of your position.
 
 
+
+
+\newpage
+
 ### Exercise: Flipping Houses
 
 The city of Goldacre City concludes that property speculators are unreasonably driving up the cost of residential property due to debt-financed house-flipping strategies. As a consequence, a local bubble is being formed and the cost of living is going through the roof. In addition, properties are becoming concentrated in the hands of exploitative landlords.
@@ -1800,6 +1886,10 @@ Accordingly, the city passes an ordinance: no person may sell residentially zone
 
 A real estate developer who has purchased a number of residential properties, with the intention of flipping some of them and converting some of the others to rentals, sues, alleging a taking. What result?
 
+
+
+
+\newpage
 
 ### Griswold v. Connecticut
 
@@ -2020,6 +2110,10 @@ Cases like Shelton v. Tuckerand Bates v. Little Rock, relied upon in the concurr
 
 See Reynolds v. Sims. The Connecticut House of Representatives recently passed a bill (House Bill No. 2462) repealing the birth control law. The State Senate has apparently not yet acted on the measure, and today is relieved of that responsibility by the Court. New Haven Journal-Courier, Wed., May 19, 1965, p. 1, col. 4, and p. 13, col. 7. 2
 
+
+
+\newpage
+
 ### Washington v. Glucksberg
 
 521 U.S. 702 (1997)
@@ -2212,6 +2306,10 @@ I do not decide here what the significance might be of legislative foot-dragging
 One must bear in mind that the nature of the right claimed, if recognized as one constitutionally required, would differ in no essential way from other constitutional rights guaranteed by enumeration or derived from some more definite textual source than "due process." An unenumerated right should not therefore be recognized, with the effect of displacing the legislative ordering of things, without the assurance that its recognition would prove as durable as the recognition of those other rights differently derived. To recognize a right of lesser promise would simply create a constitutional regime too uncertain to bring with it the expectation of finality that is one of this Court's central obligations in making constitutional decisions. 
 
 Legislatures, however, are not so constrained. The experimentation that should be out of the question in constitutional adjudication displacing legislative judgments is entirely proper, as well as highly desirable, when the legislative power addresses an emerging issue like assisted suicide. The Court should accordingly stay its hand to allow reasonable legislative consideration. While I do not decide for all time that respondents' claim should not be recognized, I acknowledge the legislative institutional competence as the better one to deal with that claim at this time. 
+
+
+
+\newpage
 
 ### Roe v. Wade
 
@@ -2417,6 +2515,10 @@ The judgment of the District Court as to intervenor Hallford is reversed, and Dr
 It is so ordered.
 
 Affirmed in part and reversed in part.
+
+
+
+\newpage
 
 ### Planned Parenthood v. Casey
 
@@ -3134,6 +3236,10 @@ The joint opinion is not entirely faithful to this principle, however. In approv
 
 Justice Blackmun's effort to preserve as much of Roe as possible leads him to read the joint opinion as more "constan[t]" and "steadfast" than can be believed. He contends that the joint opinion's "undue burden" standard requires the application of strict scrutiny to "all non-de-minimis " abortion regulations, but that could only be true if a "substantial obstacle," (joint opinion), were the same thing as a non-de-minimis obstacle—which it plainly is not. 2
 
+
+
+\newpage
+
 ### Reynolds v. Sims
 
 377 U.S. 533 (1964)
@@ -3571,7 +3677,15 @@ It says that each of the southern States, and, of course, each other State in th
 'The amendment fixes representation upon numbers, precisely as the Constitution new does, but when a State denies or abridges the elective franchise to any of its male inhabitants who are citizens of the United States and not less than twenty-one years of age, except for participation in rebellion or other crime, then such State will lose its representation in Congress in the proportion which the male citizen so excluded bears to the whole number of male citizens not less than twenty-one years of age in the State.' 3033 (Senator Henderson).
 
 
+
+
+\newpage
+
 # From Due Process to Equal Protection
+
+
+
+\newpage
 
 ### The Constitution of the United States: Is It Pro-Slavery or Anti-Slavery?
 
@@ -3590,6 +3704,10 @@ Wilberforce and Clarkson, clear-sighted as they were, took this view; and the Am
 I answer, that when adopted, it applies to a very large class of persons -- namely, redemptioners -- persons who had come to America from Holland, from Ireland, and other quarters of the globe -- like the Coolies to the West Indies -- and had, for a consideration duly paid, become bound to "serve and labour" for the parties to whom their service and labour was due. It applies to indentured apprentices and others who had become bound for a consideration, under contract duly made, to serve and labour. To such persons this provision applies, and only to such persons. The plain reading of this provision shows that it applies, and that it can only properly and legally apply, to persons "bound to service." Its object plainly is, to secure the fulfilment of contracts for "service and labour." It applies to indentured apprentices, and any other persons from whom service and labour may be due. The legal condition of the slave puts him beyond the operation of this provision. He is not described in it. He is a simple article of property. He does not owe and cannot owe service. He cannot even make a contract. It is impossible for him to do so. He can no more make such a contract than a horse or an ox can make one. This provision, then, only respects persons who owe service, and they only can owe service who can receive an equivalent and make a bargain. The slave cannot do that, and is therefore exempted from the operation of this fugitive provision. In all matters where laws are taught to be made the means of oppression, cruelty, and wickedness, I am for strict construction. I will concede nothing. It must be shown that it is so nominated in the bond. The pound of flesh, but not one drop of blood. The very nature of law is opposed to all such wickedness, and makes it difficult to accomplish such objects under the forms of law. Law is not merely an arbitrary enactment with regard to justice, reason, or humanity. Blackstone defines it to be a rule prescribed by the supreme power of the State commanding what is right and forbidding what is wrong. The speaker at the City Hall laid down some rules of legal interpretation. These rules send us to the history of the law for its meaning. I have no objection to such a course in ordinary cases of doubt. But where human liberty and justice are at stake, the case falls under an entirely different class of rules. There must be something more than history -- something more than tradition. The Supreme Court of the United States lays down this rule, and it meets the case exactly -- "Where rights are infringed -- where the fundamental principles of the law are overthrown -- where the general system of the law is departed from, the legislative intention must be expressed with irresistible clearness." The same court says that the language of the law must be construed strictly in favour of justice and liberty. Again, there is another rule of law. It is -- Where a law is susceptible of two meanings, the one making it accomplish an innocent purpose, and the other making it accomplish a wicked purpose, we must in all cases adopt that which makes it accomplish an innocent purpose. Again, the details of a law are to be interpreted in the light of the declared objects sought by the law. I set these rules down against those employed at the City Hall. To me they seem just and rational. I only ask you to look at the American Constitution in the light of them, and you will see with me that no man is guaranteed a right of property in man, under the provisions of that instrument. If there are two ideas more distinct in their character and essence than another, those ideas are "persons" and "property," "men" and "things." Now, when it is proposed to transform persons into "property" and men into beasts of burden, I demand that the law that contemplates such a purpose shall be expressed with irresistible clearness. The thing must not be left to inference, but must be done in plain English. I know how this view of the subject is treated by the class represented at the City Hall. They are in the habit of treating the Negro as an exception to general rules. When their own liberty is in question they will avail themselves of all rules of law which protect and defend their freedom; but when the black man's rights are in question they concede everything, admit everything for slavery, and put liberty to the proof. They reverse the common law usage, and presume the Negro a slave unless he can prove himself free. I, on the other hand, presume him free unless he is proved to be otherwise. Let us look at the objects for which the Constitution was framed and adopted, and see if slavery is one of them. Here are its own objects as set forth by itself: -- "We, the people of these United States, in order to form a more perfect union, establish justice, ensure domestic tranquillity, provide for the common defence, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America." The objects here set forth are six in number: union, defence, welfare, tranquillity, justice, and liberty. These are all good objects, and slavery, so far from being among them, is a foe of them all. But it has been said that Negroes are not included within the benefits sought under this declaration. This is said by the slaveholders in America -- it is said by the City Hall orator -- but it is not said by the Constitution itself. Its language is "we the people;" not we the white people, not even we the citizens, not we the privileged class, not we the high, not we the low, but we the people; not we the horses, sheep, and swine, and wheel-barrows, but we the people, we the human inhabitants; and, if Negroes are people, they are included in the benefits for which the Constitution of America was ordained and established. But how dare any man who pretends to be a friend to the Negro thus gratuitously concede away what the Negro has a right to claim under the Constitution? Why should such friends invent new arguments to increase the hopelessness of his bondage? This, I undertake to say, as the conclusion of the whole matter, that the constitutionality of slavery can be made out only by disregarding the plain and common-sense reading of the Constitution itself; by discrediting and casting away as worthless the most beneficent rules of legal interpretation; by ruling the Negro outside of these beneficent rules; by claiming everything for slavery; by denying everything for freedom; by assuming that the Constitution does not mean what it says, and that it says what it does not mean; by disregarding the written Constitution, and interpreting it in the light of a secret understanding. It is in this mean, contemptible, and underhand method that the American Constitution is pressed into the service of slavery. They go everywhere else for proof that the Constitution is pro-slavery but to the Constitution itself. The Constitution declares that no person shall be deprived of life, liberty, or property without due process of law; it secures to every man the right of trial by jury, the privilege of the writ of habeas corpus -- that great writ that put an end to slavery and slave-hunting in England -- it secures to every State a republican form of government. Any one of these provisions, in the hands of abolition statesmen, and backed up by a right moral sentiment, would put an end to slavery in America. The Constitution forbids the passing of a bill of attainder: that is, a law entailing upon the child the disabilities and hardships imposed upon the parent. Every slave law in America might be repealed on this very ground. The slave is made a slave because his mother is a slave. But to all this it is said that the practice of the American people is against my view. I admit it. They have given the Constitution a slaveholding interpretation. I admit it. They have committed innumerable wrongs against the Negro in the name of the Constitution. Yes, I admit it all; and I go with him who goes farthest in denouncing these wrongs. But it does not follow that the Constitution is in favour of these wrongs because the slaveholders have given it that interpretation. To be consistent in his logic, the City Hall speaker must follow the example of some of his brothers in America -- he must not only fling away the Constitution, but the Bible. The Bible must follow the Constitution, for that, too, has been interpreted for slavery by American divines. Nay, more, he must not stop with the Constitution of America, but make war upon the British Constitution, for, if I mistake not, that gentleman is opposed to the union of Church and State. In America he called himself a Republican. Yet he does not go for breaking down the British Constitution, although you have a Queen on the throne, and bishops in the House of Lords.
 
 My argument against the dissolution of the American Union is this: It would place the slave system more exclusively under the control of the slaveholding States, and withdraw it from the power in the Northern States which is opposed to slavery. Slavery is essentially barbarous in its character. It, above all things else, dreads the presence of an advanced civilisation. It flourishes best where it meets no reproving frowns, and hears no condemning voices. While in the Union it will meet with both. Its hope of life, in the last resort, is to get out of the Union. I am, therefore, for drawing the bond of the Union more closely, and bringing the Slave States more completely under the power of the Free States. What they most dread, that I most desire. I have much confidence in the instincts of the slaveholders. They see that the Constitution will afford slavery no protection when it shall cease to be administered by slaveholders. They see, moreover, that if there is once a will in the people of America to abolish slavery, there is no word, no syllable in the Constitution to forbid that result. They see that the Constitution has not saved slavery in Rhode Island, in Connecticut, in New York, or Pennsylvania; that the Free States have increased from one up to eighteen in number, while the Slave States have only added three to their original number. There were twelve Slave States at the beginning of the Government: there are fifteen now. There was one Free State at the beginning of the Government: there are eighteen now. The dissolution of the Union would not give the North a single advantage over slavery, but would take from it many. Within the Union we have a firm basis of opposition to slavery. It is opposed to all the great objects of the Constitution. The dissolution of the Union is not only an unwise but a cowardly measure -- 15 millions running away from three hundred and fifty thousand slaveholders. Mr˙ Garrison and his friends tell us that while in the Union we are responsible for slavery. He and they sing out "No Union with slaveholders," and refuse to vote. I admit our responsibility for slavery while in the Union, but I deny that going out of the Union would free us from that responsibility. There now clearly is no freedom from responsibility for slavery to any American citizen short of the abolition of slavery. The American people have gone quite too far in this slaveholding business now to sum up their whole business of slavery by singing out the cant phrase, "No union with slaveholders." To desert the family hearth may place the recreant husband out of the presence of his starving children, but this does not free him from responsibility. If a man were on board of a pirate ship, and in company with others had robbed and plundered, his whole duty would not be performed simply by taking the longboat and singing out "No union with pirates." His duty would be to restore the stolen property. The American people in the Northern States have helped to enslave the black people. Their duty will not have been done till they give them back their plundered rights. Reference was made at the City Hall to my having once held other opinions, and very different opinions to those I have now expressed. An old speech of mine delivered fourteen years ago was read to show -- I know not what. Perhaps it was to show that I am not infallible. If so, I have to say in defence, that I never pretended to be. Although I cannot accuse myself of being remarkably unstable, I do not pretend that I have never altered my opinion both in respect to men and things. Indeed, I have been very much modified both in feeling and opinion within the last fourteen years. When I escaped from slavery, and was introduced to the Garrisonians, I adopted very many of their opinions, and defended them just as long as I deemed them true. I was young, had read but little, and naturally took some things on trust. Subsequent experience and reading have led me to examine for myself. This has brought me to other conclusions. When I was a child, I thought and spoke as a child. But the question is not as to what were my opinions fourteen years ago, but what they are now. If I am right now, it really does not matter what I was fourteen years ago. My position now is one of reform, not of revolution. I would act for the abolition of slavery through the Government -- not over its ruins. If slaveholders have ruled the American Government for the last fifty years, let the anti-slavery men rule the nation for the next fifty years. If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice. If 350,000 slaveholders have, by devoting their energies to that single end, been able to make slavery the vital and animating spirit of the American Confederacy for the last 72 years, now let the freemen of the North, who have the power in their own hands, and who can make the American Government just what they think fit, resolve to blot out for ever the foul and haggard crime, which is the blight and mildew, the curse and the disgrace of the whole United States.
+
+
+
+\newpage
 
 ### Dred Scott v. Sandford
 
@@ -3723,7 +3841,15 @@ What the construction was at that time, we think can hardly admit of doubt. We h
 
 And upon a full and careful consideration of the subject, the court is of opinion, that, upon the facts stated in the plea in abatement, Dred Scott was not a citizen of Missouri within the meaning of the Constitution of the United States, and not entitled as such to sue in its courts; and, consequently, that the Circuit Court had no jurisdiction of the case, and that the judgment on the plea in abatement is erroneous.
 
+
+
+\newpage
+
 # Equal Protection
+
+
+
+\newpage
 
 ### Notes on Equal Protection Theory
 
@@ -3820,7 +3946,15 @@ One of the most persistent questions in all of equal protection law is how to de
 A second key question that we'll consider is: "how do we tell when a classification is happening?" In other words, what kind of relationship between government action and race counts as a classification (Sneak preview: it revolves around intent.)
 
 
+
+
+\newpage
+
 ## Foundations, and Race
+
+
+
+\newpage
 
 ### Plessy v. Ferguson
 
@@ -3872,6 +4006,10 @@ It was adjudged in that case that the descendants of Africans who were imported 
 
 The sure guaranty of the peace and security of each race is the clear, distinct, unconditional recognition by our governments, national and state, of every right that inheres in civil freedom, and of the equality before the law of all citizens of the United States, without regard to race. State enactments regulating the enjoyment of civil rights upon the basis of race, and cunningly devised to defeat legitimate results of the war, under the pretense of recognizing equality of rights, can have no other result than to render permanent peace impossible, and to keep alive a conflict of races, the continuance of which must do harm to all concerned. This question is not met by the suggestion that social equality cannot exist between the white and black races in this country. That argument, if it can be properly regarded as one, is scarcely worthy of consideration; for social equality no more exists between two races when traveling in a passenger coach or a public highway than when members of the same races sit by each other in a street car or in the jury box, or stand or sit with each other in a political assembly, or when they use in common the streets of a city or town, or when they are in the same room for the purpose of having their names placed on the registry of voters, or when they approach the ballot box in order to exercise the high privilege of voting.
 
+
+
+\newpage
+
 ### Brown v. Board of Education
 
 347 U.S. 483 (1954)
@@ -3911,6 +4049,10 @@ It is so ordered.
 K. B. Clark, Effect of Prejudice and Discrimination on Personality Development (Midcentury White House Conference on Children and Youth, 1950); Witmer and Kotinsky, Personality in the Making (1952), c. VI; Deutscher and Chein, The Psychological Effects of Enforced Segregation: A Survey of Social Science Opinion, 26 J.Psychol. 259 (1948); Chein, What are the Psychological Effects of Segregation Under Conditions of Equal Facilities?, 3 Int. J. Opinion and Attitude Res. 229 (1949); Brameld, Educational Costs, in Discrimination and National Welfare (MacIver, ed., 1949), 44—48; Frazier, The Negro in the United States (1949), 674—681. And see generally Myrdal, An American Dilemma (1944).
 
 
+
+
+
+\newpage
 
 ### Loving v. Virginia
 
@@ -3969,6 +4111,10 @@ Colored persons and Indians defined.—Every person in whom there is ascertainab
 Appellants point out that the State's concern in these statutes, as expressed in the words of the 1924 Act's title, 'An Act to Preserve Racial Integrity,' extends only to the integrity of the white race. While Virginia prohibits whites from marrying any nonwhite (subject to the exception for the descendants of Pocahontas), Negroes, Orientals, and any other racial class may intermarry without statutory interference. Appellants contend that this distinction renders Virginia's miscegenation statutes arbitrary and unreasonable even assuming the constitutional validity of an official purpose to preserve 'racial integrity.' We need not reach this contention because we find the racial classifications in these statutes repugnant to the Fourteenth Amendment, even assuming an even-handed state purpose to protect the 'integrity' of all races.
 
 
+
+
+\newpage
+
 ### Johnson v. California
 
 543 U.S. 499 (2005)
@@ -4013,6 +4159,10 @@ The fact that strict scrutiny applies “says nothing about the ultimate validit
 
 We do not decide whether the CDC’s policy violates the Equal Protection Clause. We hold only that strict scrutiny is the proper standard of review and remand the case to allow the Court of Appeals for the Ninth Circuit, or the District Court, to apply it in the first instance. See Consolidated Rail Corporation v. Gottshall (1994) (reversing and remanding for the lower court to apply the correct legal standard in the first instance); Lucas v. South Carolina Coastal Council (1992) (same). The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.
 
+
+
+\newpage
+
 ### Yick Wo v. Hopkins
 
 118 U.S. 356 (1886)
@@ -4040,6 +4190,10 @@ When we consider the nature and the theory of our institutions of government, th
 In the present cases we are not obliged to reason from the probable to the actual, and pass upon the validity of the ordinances complained of, as tried merely by the opportunities which their terms afford, of unequal and unjust discrimination in their administration. For the cases present the ordinances in actual operation, and the facts shown establish an administration directed so exclusively against a particular class1 of persons as to warrant and require the conclusion, that, whatever may have been the intent of the ordinances as adopted, they are applied by the public authorities charged with their administration, and thus representing the State itself, wfth a mind so unequal and oppressive as to amount to a practical denial by the State of that equal protection of the laws which is secured to the petitioners, as to all other persons, by the broad and benign provisions of the Fourteenth Amendment to the Constitution of the United States. Though the law itself be fair on its face and impartial in appearance, yet, if it is applied and administered by public authority with an evil eye and an unequal hand, so as practically to make unjust and illegal discriminations between persons in similar circumstances, material to their rights, the denial of equal justice is still within the prohibition of the Constitution. This principle of interpretation has been sanctioned by this court in Henderson v. Mayor of New York; Chy Lung v. Freeman; Ex parte Virginia; Neal v. Delaware; and Soon Hing v. Crowley.
 
 The judgment of the Supreme Court of California in the case of Yick Wo, and that of the Girouit Court of the United States for the District of Odlifornia ini the case of Wo Lee, are severally reversed, and the cases remanded, each to the pi'oper court, with directions to discharge the petitioners from custody cmd imprisonment.
+
+
+
+\newpage
 
 ### Washington v. Davis
 
@@ -4121,6 +4275,10 @@ My agreement rests on a ground narrower than the Court describes. I do not rely 
 
 There are two reasons why I am convinced that the challenge to Test 21 is insufficient. First, the test serves the neutral and legitimate purpose of requiring all applicants to meet a uniform minimum standard of literacy. Reading ability is manifestly relevant to the police function, there is no evidence that the required passing grade was set at an arbitrarily high level, and there is sufficient disparity among high schools and high school graduates to justify the use of a separate uniform test. Second, the same test is used throughout the federal service. The applicants for employment in the District of Columbia Police Department represent such a small fraction of the total number of persons who have taken the test that their experience is of minimal probative value in assessing the neutrality of the test itself. That evidence, without more, is not sufficient to overcome the presumption that a test which is this widely used by the Federal Government is in fact neutral in its effect as well as its "purposes" that term is used in constitutional adjudication.
 
+
+
+
+\newpage
 
 ### Milliken v. Bradley
 
@@ -4544,6 +4702,10 @@ Desegregation is not and was never expected to be an easy task. Racial attitudes
 
 The difficulty with Mr. Justice STEWART's position is that he, like the Court, confuses the inquiry required to determine whether there has been a substantive constitutional violation with that necessary to formulate an appropriate remedy once a constitutional violation has been shown. While a finding of state action is of course a prerequisite to finding a violation, we have never held that after unconstitutional state action has been shown, the District Court at the remedial stage must engage in a second inquiry to determine whether additional state action exists to justify a particular remedy. Rather, once a constitutional violation has been shown, the District Court is duty-bound to formulate an effective remedy and, in so doing, the court is entitled—indeed, it is required—to consider all the factual circumstances relevant to the framing of an effective decree. Thus, in Swann v. Charlotte-Mecklenburg Board of Education we held that the District Court must take into account the existence of extensive residential segregation in determining whether a racially neutral 'neighborhood school' attendance plan was an adequate desegregation remedy, regardless of whether this residential segregation was caused by state action. So here, the District Court was required to consider the facts that the Detroit school system was already predominantly Negro and would likely become all-Negro upon issuance of a Detroit-only decree in framing an effective desegregation remedy, regardless of state responsibility for this situation.
 
+
+
+\newpage
+
 ### Exercise: Racial School Acceptance
 
 The City of Liberalland allows students to attend any high school in the district. However, some schools are particularly popular, because parents think they provide a particularly good education, and so they quickly fill up.
@@ -4551,6 +4713,10 @@ The City of Liberalland allows students to attend any high school in the distric
 Rather than simply accept students to the popular schools by lottery, Liberalland, concerned with counteracting the lingering effect of residential segregation, decides to organize a racially based acceptance plan. When more students wish to attend a school than there are available spaces, the district checks the racial mixture of the school. If it does not match the racial mixture of the population in the whole school district, the district accepts students from the most underrepresented race, then the second most underrepresented race, and so forth.
 
 Unsurprisingly, someone with standing files suit. What result?
+
+
+
+\newpage
 
 ### Exercise: Rustacre
 
@@ -4564,6 +4730,10 @@ Based on the cases we've read thus far, and assuming there's a plaintiff with st
 
 The organization has extensive investigative resources, so if there are particular kinds of evidence that need to be developed in order to provide a factual grounding for such a challenge, she'd probably appreciate it if you told her where to look.
 
+
+
+
+\newpage
 
 ### San Antonio Independent School District v. Rodriguez 
 
@@ -4987,6 +5157,10 @@ The Court seeks solace for its action today in the possibility of legislative re
 
 I would therefore affirm the judgment of the District Court.
 
+
+
+\newpage
+
 ### Fisher v. Univ. of Tex. at Austin
 
 579 U.S. ___ (2016) 
@@ -5266,6 +5440,10 @@ What is at stake is whether university administrators may justify systematic rac
 
 Because UT has failed to satisfy strict scrutiny, I respectfully dissent.
 
+
+
+\newpage
+
 ### Exercise: Affirmative Action
 
 The University of Liberalland (U of L) is the state's flagship university, and has very high admissions standards. However, it has many more students who apply each year than meet its standards. Its medical school, in particular, is very prestigious and accepts far fewer students each year than it would like to, were teaching resources unlimited.
@@ -5284,7 +5462,15 @@ You're the general counsel of the U of L. The dean of the medical school comes t
 
 Advise the dean as to whether any of these policies, or any other policies which you may come up with, are constitutionally permissible.
 
+
+
+\newpage
+
 ## Sex/Gender and Intermediate Scrutiny
+
+
+
+\newpage
 
 ### Note on Sex/Gender Discrimination 
 
@@ -5364,6 +5550,10 @@ There are some interesting refinements that we'll see when we look at the VMI ca
 
 - *Reed v. Reed*, 404 U.S. 71 (1971) (law preferring men to women as probate administrators unanimously struck down).
 
+
+
+\newpage
+
 ### Craig v. Boren
 
 **Mr. Justice BRENNAN delivered the opinion of the Court.** The interaction of two sections of an Oklahoma statute, Okla.Stat., Tit. 37, §§ 241 and 245 (1958 and Supp ),1 prohibits the sale of "nonintoxicating" 3 % beer to males under the age of 21 and to females under the age of 18. The question to be decided is whether such a gender-based differential constitutes a denial to males 18-20 years of age of the equal protection of the laws in violation of the Fourteenth Amendment.
@@ -5416,6 +5606,10 @@ The Court's conclusion that a law which treats males less favorably than females
 
 I would have thought that if this Court were to leave anything to decision by the popularly elected branches of the Government, where no constitutional claim other than that of equal protection is invoked, it would be the decision as to what governmental objectives to be achieved by law are "important," and which are not. As for the second part of the Court's new test, the Judicial Branch is probably in no worse position than the Legislative or Executive Branches to determine if there is any rational relationship between a classification and the purpose which it might be thought to serve. But the introduction of the adverb "substantially" requires courts to make subjective judgments as to operational effects, for which neither their expertise nor their access to data fits them. And even if we manage to avoid both confusion and the mirroring of our own preferences in the development of this new doctrine, the thousands of judges in other courts who must interpret the Equal Protection Clause may not be so fortunate.
 
+
+
+\newpage
+
 ### Michael M. v. Superior Court of Sonoma County
 
 450 U.S. 464 (1981)
@@ -5457,6 +5651,10 @@ In upholding the California statute we also recognize that this is not a case wh
 Accordingly the judgment of the California Supreme Court is Affirmed.
 
 
+
+
+
+\newpage
 
 ### United States v. Virginia
 
@@ -5859,6 +6057,10 @@ In an odd sort of way, it is precisely VMI's attachment to such old-fashioned co
 
 "A Gentleman can become what he wills to be. . ."I do not know whether the men of VMI lived by this code; perhaps not. But it is powerfully impressive that a public institution of higher education still in existence sought to have them do so. I do not think any of us, women included, will be better off for its destruction.
 
+
+
+\newpage
+
 ### Exercise: Senior Executive Service
 
 The President of the United States has issued the following executive order: 
@@ -5876,6 +6078,10 @@ A man who was rejected from a position in the Senior Executive Service in favor 
 3. If the policy is unconstitutional, what could the President do to achieve the same goals in a constitutionally permissible way?
 
 
+
+
+\newpage
+
 ### Exercise: Transgender hair
 
 Patricia Plaintiff, a transgender individual who was born with male physical features but who holds a female gender identity, has joined the Goldacre National Guard. The Guard has no gender-based regulations on hair length, however, it is customary for female recruits to wear their hair somewhat longer than male recruits, within the overall limitations provided by regulation. In boot camp, Patricia wore her hair at a customary female, rather than male, length.
@@ -5885,7 +6091,15 @@ Her boot camp commander, in response to this choice of hair lengths, subjected P
 Unsurprisingly, Patricia has brought suit, seeking assignment to the more desirable unit and to a woman's barracks on an Equal Protection theory. You are the clerk to the trial judge. Assuming that the court has jurisdiction over these decisions, and that they give rise to a right of action for injunctive relief (in particular, assume that the military context does not compromise the court's jurisdiction or remedial power), advise your judge on the standard under which Patricia's claims are to be considered, and the result that ought to be reached.
 
 
+
+
+\newpage
+
 # Gay Rights at the Intersection of Substantive Due Process and Equal Protection 
+
+
+
+\newpage
 
 ### Bowers v. Hardwick
 
@@ -5987,6 +6201,10 @@ The Court orders the dismissal of respondent’s complaint even though the State
 
 I respectfully dissent.
 
+
+
+\newpage
+
 ### Romer v. Evans
 
 **Justice Kennedy delivered the opinion of the Court.** One century ago, the first Justice Harlan admonished this Court that the Constitution "neither knows nor tolerates classes among citizens." Plessy v. Ferguson (dissenting opinion). Unheeded then, those words now are understood to state a commitment to the law's neutrality where the rights of persons are at stake. The Equal Protection Clause enforces this principle and today requires us to hold invalid a provision of Colorado's Constitution.
@@ -6071,6 +6289,10 @@ But the Court today has done so, not only by inventing a novel and extravagant c
 
 When the Court takes sides in the culture wars, it tends to be with the knights rather than the villeins—and more specifically with the Templars, reflecting the views and values of the lawyer class from which the Court's Members are drawn. How that class feels about homosexuality will be evident to anyone who wishes to interview job applicants at virtually any of the Nation's law schools. The interviewer may refuse to offer a job because the applicant is a Republican; because he is an adulterer; because he went to the wrong prep school or belongs to the wrong country club; because he eats snails; because he is a womanizer; because she wears real-animal fur; or even because he hates the Chicago Cubs. But if the interviewer should wish not to be an associate or partner of an applicant because he disapproves of the applicant's homosexuality, then he will have violated the pledge which the Association of American Law Schools requires all its member schools to exact from job interviewers: "assurance of the employer's willingness" to hire homosexuals. Bylaws of the Association of American Law Schools, Inc. § 6-4(b); Executive Committee Regulations of the Association of American Law Schools § 6 in 1995 Handbook, Association of American Law Schools. This law-school view of what "prejudices" must be stamped out may be contrasted with the more plebeian attitudes that apparently still prevail in the United States Congress, which has been unresponsive to repeated attempts to extend to homosexuals the protections of federal civil rights laws, and which took the pains to exclude them specifically from the Americans with Disabilities Act.
 
+
+
+\newpage
+
 ### Note on Animus and Rational basis with "bite"
 
 Romer is often described as a case of "rational basis with bite," or a more strict than ordinary use of the rational basis standard, associated with a judicial belief that the government acted with "animus" toward the challenger.  
@@ -6105,6 +6327,10 @@ Reminder: other than in rational basis with bite cases, rational basis is the de
 |Rational Basis|Legitimate Interest|Rationally Related|Catch-all|
 
 
+
+
+
+\newpage
 
 ### Lawrence v. Texas
 
@@ -6149,6 +6375,10 @@ Bowers was not correct when it was decided, and it is not correct today. It ough
 The present case does not involve minors. It does not involve persons who might be injured or coerced or who are situated in relationships where consent might not easily be refused. It does not involve public conduct or prostitution. It does not involve whether the government must give formal recognition to any relationship that homosexual persons seek to enter. The case does involve two adults who, with full and mutual consent from each other, engaged in sexual practices common to a homosexual lifestyle. The petitioners are entitled to respect for their private lives. The State cannot demean their existence or control their destiny by making their private sexual conduct a crime. Their right to liberty under the Due Process Clause gives them the full right to engage in their conduct without intervention of the government. "It is a promise of the Constitution that there is a realm of personal liberty which the government may not enter." Casey. The Texas statute furthers no legitimate state interest which can justify its intrusion into the personal and private life of the individual.
 
 Had those who drew and ratified the Due Process Clauses of the Fifth Amendment or the Fourteenth Amendment known the components of liberty in its manifold possibilities, they might have been more specific. They did not presume  to have this insight. They knew times can blind us to certain truths and later generations can see that laws once thought necessary and proper in fact serve only to oppress. As the Constitution endures, persons in every generation can invoke its principles in their own search for greater freedom.
+
+
+
+\newpage
 
 ### Obergefell v. Hodges
 
@@ -6485,6 +6715,10 @@ Instead, the States have refused to grant them governmental entitlements. Petiti
 The suggestion of petitioners and their amici that antimiscegenation laws are akin to laws defining marriage as between one man and one woman is both offensive and inaccurate. "America's earliest laws against interracial sex and marriage were spawned by slavery." P. Pascoe, What Comes Naturally: Miscegenation Law and the Making of Race in America 19 (2009). For instance, Maryland's 1664 law prohibiting marriages between "'freeborne English women'" and "'Negro Sla[v]es'" was passed as part of the very act that authorized lifelong slavery in the colony. -20. Virginia's antimiscegenation laws likewise were passed in a 1691 resolution entitled "An act for suppressing outlying Slaves." Act of Apr. 1691, Ch. XVI, 3 Va. Stat. 86 (W. Hening ed. 1823) (reprint 1969) (italics deleted). "It was not until the Civil War threw the future of slavery into doubt that lawyers, legislators, and judges began to develop the elaborate justifications that signified the emergence of miscegenation law and made restrictions on interracial marriage the foundation of post-Civil War white supremacy." Pascoe. 
 
 
+
+
+\newpage
+
 ### Exercise: Gerrymandering
 
 The State of Goldenacre has 100,000 people, evenly divided between [registered] Democrats and Republicans. In 2016, the territory is divided into five state legislative districts, with roughly 20,000 voters between them, and roughly equal numbers of Democrats and Republicans in each (each district is contested).
@@ -6505,7 +6739,15 @@ The state Republican party, plus an individual Republican voter in each district
 
 Does it depend on the irregularity of the shape of the districts? 
 
+
+
+\newpage
+
 # Congress's Enforcement Power
+
+
+
+\newpage
 
 ### Note on Enforcement Powers
 
@@ -6527,6 +6769,10 @@ Ultimately, what we get out of the caselaw is something in between:
 
 In addition to the cases in this section, see especially Jones v. Alfred H. Mayer Co., which held that Congress has authority to prohibit the "badges and incidents of slavery" under the 13th Amendment, including the power to regulate private discrimination. Congress also has, of course, broad Commerce Clause powers to regulate economic activity, and a number of civil rights laws have been upheld on that basis.  The Voting Rights Act has been upheld and then partially struck down under Congress's enforcement power under the 15th Amendment. See Shelby County v. Holder.
 
+
+
+
+\newpage
 
 ### City of Boerne v. Flores
 
@@ -6583,6 +6829,10 @@ The substantial costs RFRA exacts, both in practical terms of imposing a heavy l
 Broad as the power of Congress is under the Enforcement Clause of the Fourteenth Amendment, RFRA contradicts vital principles necessary to maintain separation of powers and the federal balance. The judgment of the Court of Appeals sustaining the Act's constitutionality is reversed.
 
 It is so ordered.
+
+
+
+\newpage
 
 ### United States v. Morrison
 
