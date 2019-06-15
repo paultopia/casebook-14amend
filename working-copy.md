@@ -119,11 +119,11 @@ In Matthews v. Eldridge, which we are reading, the Court laid out a three-part b
 
 The three parts are:
 
-First, **the weight of the private interest at stake**. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
+First, the weight of the private interest at stake. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
 
-Second is **the risk of erroneous deprivation**. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
+Second is the risk of erroneous deprivation. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
 
-Third is **the government's interest in avoiding additional process**. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
+Third is the government's interest in avoiding additional process. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
 
 **What counts as a deprivation?**
 
@@ -135,13 +135,13 @@ So how come I don't get a hearing before the IRS makes the University take a thi
 
 **An algorithm for PDP problems**
 
-**Step 1: Is plaintiff challenging individualized state action?**
+STEP 1: Is plaintiff challenging individualized state action?
 
 If YES, proceed to step 2.
 
 If NO, stop here, there's no procedural due process claim.
 
-**Step 2: Does plaintiff have a life, liberty, or property interest?**
+STEP 2: Does plaintiff have a life, liberty, or property interest?
 
 If YES, proceed to step 3.
 
@@ -157,7 +157,7 @@ UNSURE? Here are some rules of thumb:
 
 - Is it the sort of issuewhere the government decision could be right or wrong?
 
-**Step 3: Apply *Matthews* balancing**
+STEP 3: Apply *Matthews* balancing
 
 - How important is the individual interest?
 
@@ -256,7 +256,7 @@ To realize how uncertain a standard of "fundamental fairness" would be, one has 
 
 Cash benefits are provided to workers during periods in which they are completely disabled under the disability insurance benefits program created by the 1956 amendments to the Social Security Act. 70 Stat. 815, 42 U. S. C. § 423  Respondent Eldridge was first awarded benefits in June 1968. In March 1972, he received a questionnaire from the state agency charged with monitoring his medical condition. Eldridge completed the questionnaire, indicating that his condition had not improved and identifying the medical sources, including physicians, from whom he had received treatment recently. The state agency then obtained reports from his physician and a psychiatric consultant. After considering these reports and other information in his file the agency informed Eldridge by letter that it had made a tentative determination that his disability had ceased in May 1972. The letter included a statement of reasons for the proposed termination of benefits, and advised Eldridge that he might request reasonable time in which to obtain and submit additional information pertaining to his condition.
 
-In his written response, Eldridge disputed one characterization of his medical condition and indicated that the agency already had enough evidence to establish his disability  The state agency then made its final determination that he had ceased to be disabled in May 1972. This determination was accepted by the Social Security Administration (SSA), which notified Eldridge in July that his benefits would terminate after that month. The notification also advised him of his right to seek reconsideration by the state agency of this initial determination within six months.
+In his written response, Eldridge disputed one characterization of his medical condition and indicated that the agency already had enough evidence to establish his disability.  The state agency then made its final determination that he had ceased to be disabled in May 1972. This determination was accepted by the Social Security Administration (SSA), which notified Eldridge in July that his benefits would terminate after that month. The notification also advised him of his right to seek reconsideration by the state agency of this initial determination within six months.
 
 Instead of requesting reconsideration Eldridge commenced this action challenging the constitutional validity of the administrative procedures established by the Secretary of Health, Education, and Welfare for assessing whether there exists a continuing disability. He sought an immediate reinstatement of benefits pending a hearing on the issue of his disability  361 F. Supp. 520 (WD Va. 1973). The Secretary moved to dismiss on the grounds that Eldridge's benefits had been terminated in accordance with valid administrative regulations and procedures and that he had failed to exhaust available remedies. In support of his contention that due process requires a pretermination hearing, Eldridge relied exclusively upon this Court's decision in Goldberg v. Kelly, which established a right to an "evidentiary hearing" prior to termination of welfare benefits  The Secretary contended that Goldberg was not controlling since eligibility for disability benefits, unlike eligibility for welfare benefits, is not based on financial need and since issues of credibility and veracity do not play a significant role in the disability entitlement decision, which turns primarily on medical evidence.
 
