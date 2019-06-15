@@ -5,6 +5,7 @@ date: June 16, 2019
 geometry: margin=1.2in
 toc: true
 toc-depth: 3
+links-as-notes: true
 fontsize: 12pt
 ---
 
@@ -965,6 +966,34 @@ But, however pervading this sentiment, and however it may have contributed to th
 
 But whatever fluctuations may be seen in the history of public opinion on this subject during the period of our national existence, we think it will be found that this court, so far as its functions required, has always held with a steady and an even hand the balance between State and Federal power, and we trust that such may continue to be the history of its relation to that subject so long as it shall have duties to perform which demand of it a construction of the Constitution, or of any of its parts.
 
+### Note on Incorporation
+
+The basic problem that incorporation solves is really simple: the Bill of Rights only, on its terms, applies to the federal government.  It's full of lines like "Congress shall make no law," rather than "the states shall make no law." 
+
+Accordingly, there's nothing on its face forbidding the states from, e.g., conducting unreasonable searches, levying cruel and unusual punishments, establishing churches, coercing confessions, and so on, and so on. And this makes sense: the Constitution was supposed to be primarily about enumerating and limiting federal power, right? At the time of the framing, the states had their own constitutions, and those were live things---in Virginia, for example, there were real serious debates about religious freedom in the terms of state law and state ideals; these were rights guaranteed in state courts. (At least, that's one conventional story.)
+
+Like so much else in this course, the Reconstruction Amendments changed all that. After they were enacted, the question quickly arose: did the Reconstruction Amendments make the Bill of Rights apply to the states? That's called the "incorporation" question.
+
+**Privileges and Immunities: the Supreme Court's biggest screwup?**
+
+If you've paid attention to the text of the 14th Amendment, you might immediately have noticed a piece of text that suggests that it does. The second sentence in section 1, the sentence that includes the Due Process and Equal Protection Clauses, starts with another clause, the Privileges and Immunities clause. It reads: "No state shall make or enforce any law which shall abridge the privileges of immunities of citizens of the United States[.]"
+
+Now, here's one natural. The Bill of Rights. It describes privileges and immunities of citizens of the United States. To be sure, its protections apply to non-citizens as well, but one thing we ought to be able to say about it is that it also describes the things you're entitled to in this country at a minimum as a citizen---free speech, not having soldiers quartered in your homes, etc. I mean, not having troops lying around eating all my food and scaring the cat---'Murica, in a nutshell, right? Indeed, some Supreme Court justices have thought just this. Most notable, of course, is our greatest hard-line textualist justice, Hugo Black. As always, he's the one who actually likes to read the constitution, and he thought the privileges and immunities clause incorporated the Bill of Rights. Today, Justice Thomas is particularly associated with this position.
+
+However in the Slaughterhouse cases, 83 U.S. 36 (1873), the Court held that the privileges and immunities clause didn't incorporate the Bill of Rights. It also stated---in a case about a state's granting monopoly rights to slaughterhouses, for goodness sakes---a really narrow interpretation of the Reconstruction Amendments, basically as only to protect former slaves. All the rest of its other holdings (or dicta, or just general interpretations) have been overturned, but the privileges and immunities clause holding hasn't been. With only one exception, the privileges and immunities clause of the 14th amendment has been a dead letter since then. (The exception is an interstate travel question: Saenz v. Roe, 526 U.S. 489 (1999) struck down a law restricting welfare benefits for new residents on the basis of the privileges and immunities clause. But this line of reasoning hasn't really been carried out further.)
+
+**Due Process Incorporation**
+
+So when the Supreme Court turned around at the end of the 19th and beginning of 20th centuries and actually started applying Bill of Rights protections to the states, they used the Due Process Clause!  The Bill of Rights isn't part of the privileges and immunities of citizens, but it is, according to the wise heads on the Supreme Court, part of the liberty guaranteed by the Due Process Clause! And never mind that on its face all that clause guarantees is process; we'll just use it as a second-choice textual hook for our incorporation doctrine. (We'll see this happen again when we get to fundamental rights, only there, the Due Process Clause shoves aside the 9th Amendment rather than the Privileges and Immunities Clause.)
+
+So they started incorporating the Bill of Rights through the Due Process Clause. And then the debates started. 
+
+The key debate was between total incorporationists and partial incorporationists (and a third position which we'll take up a bit more deeply in the context of fundamental rights, which we could call "liberty guaranteed by the 14th amendment, full stop," or "incorporation as unenumerated fundamental rights doctrine.") As usual, Justice Black lost with his straightfoward and blunt (and sensible) position, viz. total incorporation. 
+
+So instead of incorporating the whole thing, the Court incorporated the Bill of Rights in drips and drabs, and still hasn't incorporated it all. In particular, the Court has explicitly held that the civil jury trial right in the 7th amendment hasn't been incorporated, and neither has the grand jury in criminal cases. Those are the most important ones, where the Court explicitly held "no incorporation," but there are also a few provisions where the Court hasn't reached the question, like the 3rd amendment (of course). But the broad idea, which we'll see in detail when we get to our case for this material, is that the Court incorporates the stuff that seems really really important. As I noted earlier, we see language about "fundamental rights" making an appearance here, and it will connect closely to our next module.
+
+Incidentally, lest you think that surely by now the Court would have done all the incorporating it means to do, it may interest you to learn that on February 20, 2019, the Court finally got around to incorporating the 8th Amendment's Excessive Fines Clause in [Timbs v. Indiana](https://www.scotusblog.com/case-files/cases/timbs-v-indiana/).
+
 ### Adamson v. California
 
 332 U.S. 46 (1947)
@@ -1565,7 +1594,7 @@ Thinking about the First Amendment helps us see the absurdity of the notion of f
 
 Here's the thing. From a pure textual standpoint, isn't Justice Black actually exactly right? "No law" isn't exactly ambiguous! Even strict scrutiny seems like a weird idea in the context of things like the enumerated rights: the Constitution doesn't say "Congress shall make no law ... abridging the freedom of speech unless it's narrowly tailored to a compelling government interest." Nor, for that matter, does it say "Nor shall any state ... deny to any person within its jurisdiction the equal protection of the laws unless it's narrowly tailored to a compelling government interest."
 
-When we think of that logic, which clearly poses serious problems for the application of any level of scrutiny to the enumerated rights (except for stuff like the 4th and 8th amendments which actually write ideas like "unreasonable" and "cruel and unusual" into the text), we might also want to worry that the same problem shows up for the unenumerated rights. If there really is a pre-constitutional right to something, then on what basis does Congress or a state legislature deprive an individual of it? What kind of right is it, ultimately, that can be infringed if the government has a really good reason, and why should the standard for really good reason even formally be the same in all these cases (albeit not necessarily actually)? Certainly the idea of due process, even if it includes enforcing unenumerated rights, doesn't also include some kind of strict scrutiny test. So there's a deeply unprincipled analytic strategy at the heart of this whole body of law. But it's what we got.
+When we think of that logic, which clearly poses serious problems for the application of any level of scrutiny to the enumerated rights (except for stuff like the 4th and 8th amendments which actually write ideas like "unreasonable" and "cruel and unusual" into the text), we might also want to worry that the same problem shows up for the unenumerated rights. If there really is a pre-constitutional right to something, then on what basis does Congress or a state legislature deprive an individual of it? What kind of right is it, ultimately, that can be infringed if the government has a really good reason, and why should the standard for really good reason even formally be the same in all these cases (albeit not necessarily actually)? Certainly the idea of due process, even if it includes enforcing unenumerated rights, doesn't also include some kind of strict scrutiny test. So arguably there's a deeply unprincipled analytic strategy at the heart of this whole body of law. But it's what we got.
 
 ### Lochner v. New York
 
@@ -1717,6 +1746,62 @@ Where the existence of a rational basis for legislation whose constitutionality 
 The prohibition of shipment in interstate commerce of appellee's product, as described in the indictment, is a constitutional exercise of the power to regulate interstate commerce. As the statute is not unconstitutional on its face, the demurrer should have been overruled and the judgment will be reversed.
 
 Reversed. 4 There may be narrower scope for operation of the presumption of constitutionality when legislation appears on its face to be within a specific prohibition of the Constitution, such as those of the first ten Amendments, which are deemed equally specific when held to be embraced within the Fourteenth. See Stromberg v. California, 370, 536, 73 A.L.R. 1484; Lovell v. Griffindecided March 28, 1938. It is unnecessary to consider now whether legislation which restricts those political processes which can ordinarily be expected to bring about repeal of undesirable legislation, is to be subjected to more exacting judicial scrutiny under the general prohibitions of the Fourteenth Amendment than are most other types of legislation. On restrictions upon the right to vote, see Nixon v. Herndon; Nixon v. Condon88 A.L.R. 458; on restraints upon the dissemination of information, see Near v. Minnesota, 722, 632, 633, ; Grosjean v. American Press Co.; Lovell v. Griffin; on interferences with political organizations, see Stromberg v. California, 73 A.L.R. 1484; Fiske v. Kansas; Whitney v. California, ; Herndon v. Lowry; and see Holmes, J., in Gitlow v. New York, ; as to prohibition of peaceable assembly, see De Jonge v. Oregon, Nor need we enquire whether similar considerations enter into the review of statutes directed at particular religious, Pierce v. Society of Sisters39 A.L.R. 468, or national, Meyer v. Nebraska29 A.L.R. 1446; Bartels v. Iowa; Farrington v. Tokushigeor racial minorities. Nixon v. Herndon; Nixon v. Condon; whether prejudice against discrete and insular minorities may be a special condition, which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities, and which may call for a correspondingly more searching judicial inquiry. Compare McCulloch v. Maryland, 4 Wheat. 316, 428, ; South Carolina State Highway Department v. Barnwell Bros.decided February 14, 1938, note 2, and cases cited.
+
+### Note on the Notion of Economic Fundamental Rights
+
+After the fall of Lochner, the basic rule is that constitutional challenges to economic regulation only get rational basis scrutiny.
+
+The history, and we've noted this before, is that there was a period of jurisprudence known as the "Lochner era." The Lochner era did for economic rights kind of what, as we'll see, the current conservative justices argue the Griswold, Roe, and now Obergefell did for personal and family rights, that is, it kind of took a variety of ideas, primarily the contracts clause and the various property rights protections, and generalized out from them to a general idea of economic liberty.^[Footnote: the Contracts Clause? What's that? Article 1, section 10: forbids states from "impairing the obligation of contracts." There's lots of debate about what it means; many have argued it just means prohibiting the states from passing bankruptcy laws on their own, leaving that power to Congress, others have argued that it prohibits the states repudiating their public contracts, particularly their public debts---that's closest to what the Court does with it today in those rare cases it comes up. Some libertarian legal scholars read it as a general liberty of contract provision.]
+
+This era was brought to an end by the New Deal. Basically, what happened is that the Court struck down all kinds of economic regulation, but political opposition was too strong. So Roosevelt started trying really harsh exercises of the political branches' power to keep the Court in line, primarily "court-packing," altering the number of justices on the court basically to ensure that he could win cases by appointing a bunch of allies, but he was also at various points considering "jurisdiction stripping," depriving the Court of jurisdiction over cases that could undermine the New Deal. Note that Article III section 2 permits jurisdiction-stripping in cases that don't arise within the Court's original jurisdiction ("In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make."). As for court-packing, the constitution doesn't specify the number of justices, and Congress had made that decision by statute from the start.
+
+So then the court backed down. The standard story is that around the time the court-packing bill was introduced, Justice Owen Roberts thought to him self "oh dear, now we're really in trouble," and changed his vote, making it 5-4 against overturning a salient economic regulation, and from there, case after case start coming down upholding the New Deal. And that story, obviously, is a gross oversimplification, but it probably still captures the heart of the political environment. Arguably, this is a case study in how the Court doesn't really have ultimate power to undermine the democratic will, because its power over the political branches is only backed up by political support for it. If the political branches want, they can just ignore its rulings, or, as the New Dealers considered, gut it by statute, and they can get away with it as long as the people don't punish them at the polls for it. The rule now is "rational basis for economic regulation."
+
+The tipping point is often assigned to the actual case in which Roberts switched, a case called West Coast Hotel v. Parrish, 300 U.S. 379 (1937), which stated a rational basis standard for economic regulation in the course of upholding a minimum wage law for women (who, unsurprisingly given the time, were seen as in need of extra protection. Thanks patriarchy for getting rid of the Lochner era!).
+
+So Lochner not only is obviously not good law, it kinds of stands as an exemplar of the opposite of good law: it's up there with Dred Scott, Plessey, and Korematsu, although obviously not nearly as evil as those, in those cases that we use as judicial swear words --- tell a judge she or he is doing a Lochner thing, and those are fighting words.
+
+***Should there be economic fundamental rights?**
+
+That being said, it's a useful exercise to take seriously the proposition that there should be economic fundamental rights. Let's consider two major arguments. 
+
+The first is that the method for finding fundamental rights that we've examined can seem a lot like something that could be used to justify Lochner; when you're reading Griswold and then Glucksberg look out for places to find similarities to Lochner as well as to the two factors that we've isolated as leading to a judicial finding of a fundamental right. They won't be explicit in the text, but try to consider economic rights under the framework we developed and ask whether they should be fundamental.
+
+The second is the issue of corruption, or what economists call "rent-seeking." The case that most constitutional law professors point to in order to really highlight this worry is Wiliamson v. Lee Optical, 348 U.S. 483 (1955). This was another leading post-Lochner case restating and making absolutely clear that economic regulations now get rational basis review. 
+
+But the thing about the law that the Court upheld in this case is that it was blatantly corrupt. It prevented an optician from replacing the lenses in glasses without a new prescription from an optometrist. And we know why the law was enacted, or at least many people think we do: because some optometrists had cronies in the legislature, and they wanted to make a law to get more business. The district court tried to strike the law down under a rational basis standard; the court reversed. But should it have? Is it part of the proper role of the judiciary to guard against this kind of corrupt regulation? Should rent-seeking be constitutionally cognizable?
+
+
+### Exercise: Career Counseling
+
+The state of Goldacre enacts the following law:
+
+> (a) It is the conclusion of the Goldacre Legislature that young Goldacreians are choosing, because of ignorance and economic over-optimism, to start their careers in low-paying rather than high-paying employment. Research suggests that a citizen's lifetime earning potential is strongly linked to his or her first full-time job after concluding his or her formal education. Goldacreians who choose to begin their careers in low-paying employment ultimately contribute less to the state's economy and are at greater risk of receiving public benefits later in their careers.
+
+> (b) Accordingly, no resident of Goldacre under the age of thirty (covered resident) may, after completing his or her formal education, take employment at a salary at or below the 25th percentile of the salaries for that resident's age, educational background, and locality (sub-25 position), unless she or he can demonstrate, to the satisfaction of a licensed career counselor (LCC), that she or he cannot obtain a higher-paying position. If a LCC denies any such covered resident permission to take a sub-25 position, the covered resident may appeal the LCC's decision to an ordinary trial court, which may review the LCC's factual determinations with respect to the covered resident's inability to find higher-paying work. In the event of such an appeal, the covered resident may nonetheless take such a position until such time as the judicial process is fully completed.
+
+> (c) The Goldacre State Board of Career Counselor Licensing is hereby created in order to examine and certify the LCCs required to provide the services specified in section (b) of this statute. The Board shall establish, by regulation, licensure standards for LCCs as well as rules regarding the rates they may charge, continuing education requirements, and other suitable regulations. In no event shall the board permit a LCC to offer his or services at a rate less than $100 per hour. The board shall issue an initial license to all current members of the Goldacre Association of Career Counselors, Inc.
+
+
+- Given current doctrine, under what standard will this law be evaluated?
+
+- What result on that standard?
+
+- As a matter of policy, is this the right result?
+
+- If not, what should the law do about it, if anything?
+
+Your group should write down an answer to each of those questions, as well as a brief explanation of your position.
+
+
+### Exercise: Flipping Houses
+
+The city of Goldacre City concludes that property speculators are unreasonably driving up the cost of residential property due to debt-financed house-flipping strategies. As a consequence, a local bubble is being formed and the cost of living is going through the roof. In addition, properties are becoming concentrated in the hands of exploitative landlords.
+
+Accordingly, the city passes an ordinance: no person may sell residentially zoned real estate within three years of acquiring it, nor may any person convert an owner-occupied residence to a renter-occupied residence within that period, unless she or he establishes a personal residence more than 100 miles away. (We'll assume the city also finds a non-stupid way to apply this to corporate owners.)
+
+A real estate developer who has purchased a number of residential properties, with the intention of flipping some of them and converting some of the others to rentals, sues, alleging a taking. What result?
+
 
 ### Griswold v. Connecticut
 
@@ -3408,13 +3493,13 @@ Although the Court—necessarily, as I believe—provides only generalities in e
 
 1. history;
 
-2. "economic or other sorts of group interests";]
+2. "economic or other sorts of group interests";
 
 3. area; 
 
 4. geographical considerations; 
 
-5. a desire "to insure effective representation for sparsely settled areas"
+5. a desire "to insure effective representation for sparsely settled areas";
 
 6. "availability of access of citizens to their representatives"; 
 
@@ -3422,7 +3507,7 @@ Although the Court—necessarily, as I believe—provides only generalities in e
 
 8. occupation; 
 
-9. "an attempt to balance urban and rural power." 
+9. "an attempt to balance urban and rural power"; 
 
 10. the preference of a majority of voters in the state. 
 
@@ -3489,7 +3574,6 @@ Believing that this amendment probably goes as far in favor of suffrage to the n
 It says that each of the southern States, and, of course, each other State in the Union, has a right to regulate for itself the franchise, and that consequently, as far as the Government of the United States is concerned, if the black man is not permitted the right to the franchise, it will be a wrong (if a wrong) which the Govern- ment of the United States will be impotent to redress.' 3027 (Senator Johnson).
 
 'The amendment fixes representation upon numbers, precisely as the Constitution new does, but when a State denies or abridges the elective franchise to any of its male inhabitants who are citizens of the United States and not less than twenty-one years of age, except for participation in rebellion or other crime, then such State will lose its representation in Congress in the proportion which the male citizen so excluded bears to the whole number of male citizens not less than twenty-one years of age in the State.' 3033 (Senator Henderson).
-
 
 
 # From Due Process to Equal Protection
@@ -3645,6 +3729,101 @@ What the construction was at that time, we think can hardly admit of doubt. We h
 And upon a full and careful consideration of the subject, the court is of opinion, that, upon the facts stated in the plea in abatement, Dred Scott was not a citizen of Missouri within the meaning of the Constitution of the United States, and not entitled as such to sue in its courts; and, consequently, that the Circuit Court had no jurisdiction of the case, and that the judgment on the plea in abatement is erroneous.
 
 # Equal Protection
+
+### Notes on Equal Protection Theory
+
+Before we get into our core Equal Protection material, let's think about Procedural Due Process again. 
+
+You may have noticed that Procedural Due Process draws on one of the core themes of Constitutional Law: the separation of powers. One way to understand what happened in Bi-Metallic is that procedural due process drew the line between the functions of the judiciary and that of the legislature. The legislature makes rules, but doesn't apply then to any person in particular; a person isn't entitled to the procedural protections of judicial process as long as the legislature sticks to that role. The judicial role begins when decisions start getting made that apply to individuals. (How does the executive fit in all this? Well, the executive applies law to individuals, but typically by invoking judicial process. Also, the executive runs the administrative agencies, and, if you take administrative law, you'll learn that the Bi-Metallic case tracks what ad law people know as the distinction between "regulation" and "adjudication.")
+
+Let's think of this a little more carefully, though. Suppose the legislature makes a law "nobody may drive over sixty-five miles per hour." I don't get to show up in court and demand procedural due process to challenge the law's mere existence. Of course, when I get pulled over for speeding, I get to challenge the application of the law to me by the executive (for example, to claim I wasn't speeding, that the police misinterpreted the statute, or to bring some other, substantive, constitutional challenge to the law), but I don't get to claim that the legislature followed improper procedures in regulating me in the first place, because the law was general. If the legislature enacted a law saying "Paul Gowder doesn't get to drive over sixty-five," then I get to challenge that law on procedural due process grounds in addition to all the rest.
+
+In short: the legislative branch makes general law, but does not get to operate on individuals.  Legislative acts, properly understood, typically aren't subject to due process challenge.  (Foreshadowing: what does "general law" mean?  Well, maybe the Equal Protection Clause can help?)  The judiciary and executive apply those laws to individuals, and are subject to procedural constraint before doing so.
+
+Yet, you might think this is kind of alarming. The legislature can't take your property individually. But it can enact generally applicable laws that simply strip away property rights from everyone. But isn't that worse? To be sure, the democratic process protects you against such laws, as the Court pointed out in *Bi-Metallic*. But that's cold comfort: if the government just tried to take your property individually, you'd still have the protections of the democratic process, but you'd also get the protections of the courts. So why is the more dangerous power covered by fewer protections?
+
+One answer we might give is that the democratic process is more effective in regulating generally applicable laws. If Congress just passes a law like "the police go beat up Paul Gowder" or "we take Paul Gowder's stuff" (laws which, respectively, also violate the bill of attainder clause and, in the absence of compensation, the takings clause) then my fellow citizens don't have any particular motivation to put a stop to it. But if Congress passes a law "the police beat everyone up" then there's a pretty good chance the voters will have some things to say about it, because it hurts them too. For that reason, many constitutional scholars would say that one key idea is that the Courts give more scrutiny to laws directed at people who can't defend themselves in the political process.
+
+That is the core message of the most famous footnote in all of constitutional law: footnote four in *United States v. Carolene Products*. If judicial scrutiny is directed at protecting the democratic process, then Carolene Products identifies at least two obvious grounds for invoking that scrutiny. First, "legislation which restricts those political processes which can ordinarily be expected to bring about repeal of undesirable legislation," like infringements on voting rights and free speech, and second, " prejudice against discrete and insular minorities ... which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities."
+
+But if we interpret procedural due process as essentially the command that the legislature make generally applicable laws, rather than target particular people, then that leads us right into the next area of constitutional law for this course, in which we directly struggle with the command that the law only be equal. The Equal Protection Clause. As we'll see, that's usually interpreted as a similar kind of generality requirement: the government is required to have particular reasons before it treats people differently. But this one applies not just to the legislature, but to the executive too, forbidding, for example, racial discrimination in policing. So now we turn to that.
+
+**Equal Protection of the laws is what?**
+
+The Equal Protection Clause comprises the following parts of the text of the 14th Amendment: "no state shall... deny to any person within its jurisdiction the equal protection of the laws."
+
+Let's start by noticing some of the textual ambiguity here. 
+
+- As before, who is a "person?" But that's the easiest question. Here are some harder ones. 
+
+- First, is there a similar principle that applies to the federal government? The text says "state."  Does that mean the feds can do things like engage in race discrimination? 
+
+There isn't an equal protection clause for the feds written into the constitution, but in *Bolling v. Sharpe*, 347 U.S. 497 (1954) the Court basically turned around and applied equal protection principles to the federal government through the Fifth Amendment's due process clause. We'll talk about this more later, but some people think this was a dubious move, and that there's reason to think that equal protection principles apply less stringently (if at all) to the feds than to the states.
+
+Another is what counts as "equal" law. One way to think about the idea of equal law is law that treats everyone the same. Another is law that treats people equally given their circumstances. Here's an example: a hypothetical law "everyone must pay a poll tax of ten thousand dollars in order to vote" nominally treats everyone the same, but is it really an "equal" law, or is it a law that treats the poor unequally?
+
+Finally, another puzzle is the use of the word "protection." Does that limit the scope of the equal protection clause? We'll talk about that in a moment. First, a little bit more background and context.
+
+Let's think about two legal routes a plaintiff might use to attack government action that treats her differently. One way is the procedural due process route. *Londoner v. City and County of Denver* is the epitome of that route. The procedural due process route allows a plaintiff to say "this government action singled me out, and I'm entitled to procedural protections before that happens." It isn't an attack on the substantive result: the procedural due process claim in Londoner wasn't "the tax assessment they imposed on me was illegal, or was for the wrong amount." Instead, it's "even if the tax assessment ultimately turns out to be legally correct, I'm entitled to a formal process to allow that to be determined."
+
+By contrast, let me tell you about another case that we'll not be reading. We're skipping this case not because it's too hard but because it's too easy, but it's still well worth a look at some point. In *Village of Willowbrook v. Olech*, 528 U.S. 562 (2000), the Court held that a plaintiff could raise an equal protection challenge to a city requirement that she grant a 33 foot easement on her property as a condition of getting a connection to the city water supply. The basis of the challenge was that the plaintiff was treated differently: other citizens seeking water connections had only been required to give up 15-foot easements. But the nub of the claim wasn't procedural---Olech wasn't claiming that she had been denied a hearing. Rather, it was substantive: she claimed that the decision was illegal for unjustifiably treating her differently from everyone else.
+
+So one way to think about both procedural due process and equal protection are as alternative ways for plaintiffs to raise the classic kindergarten claim "UNCLE SAM WAS PICKING ON ME!" As the lawyer for plaintiff, you want to bring a procedural process claim when your client has been picked on by a general law or power that has been applied to her individually without a hearing.  For example, the government threw your client in jail without a hearing, or the legislature passed a bill of attainder against her (quick exercise: go find out what a bill of attainder is if you don't already know).  
+
+By contrast, you want to bring an equal protection "class of one" claim---that's the kind of claim at issue in *Willowbrook v. Olech*---when some government agent has applied some kind of general rule or power to your client but you think the rule itself or its application is substantively unfair---there is insufficient reason to treat your client one way and to treat everyone else differently. We'll fill out this notion of "insufficient reason" in the coming weeks, that's the core doctrinal question in equal protection law. 
+
+In sum, the key difference between EPC and PDP is that EPC is about the *substantive fairness of government action* while PDP is about the *fairness of the procedure that is used to determine government action*.
+
+But, of course, most equal protection cases aren't about singling out individuals. They're about singling out groups. Let's turn to that.
+
+**Let's be originalist for a second.**
+
+If we think about the actual history of the Equal Protection Clause, it was, of course, enacted to protect groups, and in particular one group: black folks. After all, the Fourteenth Amendment was one of the three Reconstruction Amendments, imposed on the defeated South after the Civil War; in the context of the Thirteenth Amendment, outlawing slavery, and the Fifteenth Amendment, establishing the right to vote for black people, it is obvious that the point was to regularize the legal status of freed slaves. So, for an originalist, the Equal Protection Clause pretty clearly is about protecting against group discrimination rather than protecting against singling out individuals to demand bigger water pipe easements or some such nonsense.
+
+One way to read the idea of Equal Protection is as about the literal "protection" of the law. One critical way that the South oppressed black people in Jim Crow is by failing to protect black citizens from white violence. The Southern states simply failed to enforce the laws against things like murder and assault and arson against white people who committed those crimes against black people, thus allowing organized racial terror groups like the Ku Klux Klan, lynch mobs, etc. to run rampant. On a literal textualist reading of the Equal Protection Clause, this is the core behavior it was intended to forbid. White people had the protection of the laws from violence, black people didn't.
+
+For some strong evidence of this interpretation, see the Enforcement Act of 1871 (better known as the Ku Klux Klan act), 17 Stat. 13. Most significantly, section 3 of the act reads in relevant part as follows:
+
+> That in all cases where insurrection, domestic violence, unlawful combinations, or conspiracies in any State shall so obstruct or hinder the execution of the laws thereof, and of the United States, as to deprive any portion or class of the people of such State of any of the rights, privileges, or immunities, or protection, named in the constitution and secured by this act, and the constituted authorities of such State shall either be unable to protect, or shall, from any cause, fail in or refuse protection of the people in such rights, such facts shall be deemed a denial by such State of the equal protection of the laws to which they are entitled under the constitution of the United States: and in all such cases... it shall be lawful for the President, and it shall be his duty to take such measures, by the employment of the militia or the land and naval forces of the United States... as he may deem necessary for the suppression of such insurrection, domestic violence, or conspiracies.
+
+Section 4 of the act goes on to address cases in which "the constituted authorities are in complicity with, or shall connive at the unlawful purposes of, such powerful and armed combinations," and authorizes the President to suspend habeas corpus.
+
+But we now universally think the Equal Protection Clause covers a much broader scope. It's well established that the equal protection clause covers discrimination against people other than African-Americans, and that it prohibits discriminatory law in general, not just---or perhaps not even---the mere failure to protect people against private criminality.^[I say perhaps not even because there's some nasty caselaw about there being no private claim for police failure to protect, although there are still arguments available---see generally *DeShaney v. Winnebago County Department of Social Services*, 489 U.S. 189 (1989). This has been a particular issue in domestic violence cases, about which Harvard's Berkman center has a really interesting discussion at this link: [http://cyber.law.harvard.edu/vaw00/basics.html](http://cyber.law.harvard.edu/vaw00/basics.html).)] 
+
+***Classification vs subordination***
+
+There are two ways of interpreting the idea of discriminatory law. One is "the classification approach." The idea here is that a law discriminates, and thus is subject to equal protection challenge, if it treats people differently. On the classification approach, it doesn't matter whether the law that treats people differently is good or bad for some subordinated minority group. For example, a law providing favorable treatment to black people is just as subject to challenge as a law injuring black people.
+
+The other approach is the subordination approach. The idea there is that the Equal Protection Clause isn't about people being treated differently, it's about unjust social hierarchy. So if laws perpetuating unjust social hierarchy are what the Clause prohibits, then there's only a challenge when a law actually picks on, not just anyone, but someone on the bottom of the totem pole. On that conception of Equal Protection, a law picking on black folks and favoring white folks is subject to challenge, but a law picking on white folks and favoring black folks isn't, because of the existence of background racial hierarchy favoring whites over blacks.
+
+The choice between those two conceptions of equal protection is a subject of hot academic dispute. The defenders of the subordination approach have two main arguments: first, a historical or originalist argument: the same victorious northern abolitionist Republicans who imposed the Fourteenth Amendment on the South also passed a bunch of laws that quite explicitly provided favorable treatment to freed slaves. For example, Congress set up the Freedmen's Bureau, which provided copious financial assistance to former slaves, and attempted to carry out outright redistribution. And this also makes more sense in context. If the purpose of the amendment at the time was to regularize the status of freed slaves, then this doesn't mean treating the freed slaves the same as the enslavers, it means raising the condition of the freed slaves until they can stand on an equal footing. The second is a philosophical and moral argument about what equal law means... that argument is a bit more complex, but if you want the very best version of it, well, I published that article myself, it's called Equal Law in an Unequal World. Feel free to read it.
+
+By contrast, the classification approach defenders have a very strong argument of their own, which is fundamentally that the courts are not competent to adjudicate social hierarchy. Can you imagine showing up to court and having to convince a court, ok, group A is socially dominant relative to group B, so the law ought to allow discrimination in favor of B and against A? This is practically the definition of a political question, something so messy and controversial that it seems like it would be outrageous to allow the judicial branch to make rulings about it.
+
+But I said "academic dispute" for a reason. As a matter of doctrine, the Supreme Court has come down pretty squarely on the side of the classification approach. This isn't necessarily permanent. Lots of academics and some activists (particularly on the political left) advocate for the Court to go to the subordination approach. So the first step in any equal protection claim is to establish that the challenged state action classifies people into some kind of group (even a group of one, about which more later) along some dimension, like race, gender, sexual orientation, or, really, any kind of classification, like neighborhood or hair color or political party or whatever.
+
+Ok, so that's really the basis for understanding equal protection. You need to understand that stuff, because it'll help us explain the weird decisions that seem to come down from the Supreme Court on the daily. Now let's drill down some into the details.
+
+**More and less suspect classifications**
+
+The entry point to equal protection doctrine is the idea of different kinds of suspicion attached to different classifications. If we're going to be originalists at all, then we can't just flat-out ignore the fact that this Amendment was put into the constitution in order to prevent race discrimination. If we know *nothing else* about the Fourteenth Amendment, we know that. So, intuitively, the courts ought to have a shorter fuse for race discrimination than for other kinds of discrimination. In fact, for an originalist, it need not be obvious that the Equal Protection Clause ought to do anything other than prevent race discrimination. In general, even if we follow the classification approach, we ought to think that some kinds of classification are more worrisome for the purposes of equal protection scrutiny than others.
+
+"But wait!" you say. "Why do we need to do this at all? Why don't we just forbid classifications?" Well, we can't do that. Every law is a classification. The law "people under 21 can't buy booze" is an obvious example, but obviously we don't want that to be unconstitutional. "Latino people can't buy booze?" Clearly unconstitutional. One way to explain those judgments is to say that racial classifications get treated more suspiciously than age classifications. And, indeed, that's exactly what we do. Recognizing that every law classifies citizens into a group of people that are covered and a group of people that aren't, the Supreme Court has established a hierarchy of classifications ordered by their level of suspiciousness. 
+
+There are a bunch of different groups, and I'll give you a handout later on which summarizes all of this for you. But here's the secret takeaway in all of this. The subordination view has snuck back into the classification view, it has to sneak back into the classification view, because we have to have a way of telling which classifications are nasty and which are not nasty, otherwise we have to give careful equal protection scrutiny to laws that distinguish between children and adults, or people convicted of felonies and people not convicted of felonies, and all kinds of other classifications that many people intuitively accept.
+
+For right now, the minimum you need to know is this: 
+
+1.  Race is a suspect classification, meaning that when the government classifies people by race it is very likely to get struck down. There are other suspect classifications, but race is the big one. 
+
+2.  Gender is a semi-suspect classification, meaning that when the government classifies by gender, it's still quite likely, although not as likely, to get struck down. 
+
+3.  Most other kinds of classifications are not suspect classifications, meaning that it's pretty likely for such classifications to be upheld.
+
+One of the most persistent questions in all of equal protection law is how to decide what's a suspect classification. Race is the easy case, because, again, the amendment was written to stop race discrimination. But there are lots of other issues about how we figure out which other categories get treated as suspicious. Does it have something to do with a history of discrimination? Does it have something to do with that idea given in the Carolene products of "discrete and insular minorities," that is, people who are easy to target and too politically weak, because a minority, to defend themselves in the political process? We'll explore that in more detail in a few weeks, in particular in the context of debates over how sexual orientation discrimination should be treated.
+
+A second key question that we'll consider is: "how do we tell when a classification is happening?" In other words, what kind of relationship between government action and race counts as a classification (Sneak preview: it revolves around intent.)
+
 
 ## Foundations, and Race
 
@@ -4369,6 +4548,26 @@ Desegregation is not and was never expected to be an easy task. Racial attitudes
 
 The difficulty with Mr. Justice STEWART's position is that he, like the Court, confuses the inquiry required to determine whether there has been a substantive constitutional violation with that necessary to formulate an appropriate remedy once a constitutional violation has been shown. While a finding of state action is of course a prerequisite to finding a violation, we have never held that after unconstitutional state action has been shown, the District Court at the remedial stage must engage in a second inquiry to determine whether additional state action exists to justify a particular remedy. Rather, once a constitutional violation has been shown, the District Court is duty-bound to formulate an effective remedy and, in so doing, the court is entitled—indeed, it is required—to consider all the factual circumstances relevant to the framing of an effective decree. Thus, in Swann v. Charlotte-Mecklenburg Board of Education we held that the District Court must take into account the existence of extensive residential segregation in determining whether a racially neutral 'neighborhood school' attendance plan was an adequate desegregation remedy, regardless of whether this residential segregation was caused by state action. So here, the District Court was required to consider the facts that the Detroit school system was already predominantly Negro and would likely become all-Negro upon issuance of a Detroit-only decree in framing an effective desegregation remedy, regardless of state responsibility for this situation.
 
+### Exercise: Racial School Acceptance
+
+The City of Liberalland allows students to attend any high school in the district. However, some schools are particularly popular, because parents think they provide a particularly good education, and so they quickly fill up.
+
+Rather than simply accept students to the popular schools by lottery, Liberalland, concerned with counteracting the lingering effect of residential segregation, decides to organize a racially based acceptance plan. When more students wish to attend a school than there are available spaces, the district checks the racial mixture of the school. If it does not match the racial mixture of the population in the whole school district, the district accepts students from the most underrepresented race, then the second most underrepresented race, and so forth.
+
+Unsurprisingly, someone with standing files suit. What result?
+
+### Exercise: Rustacre
+
+The city of Rustacre is a decaying industrial town whose core industries have long ago been shipped overseas. Its economic collapse was accompanied by increasing residential racial as well as class segregation, as upper-income whites largely fled to the wealthier outskirts and lower-income minorities remained in the central city. The central city has fallen further behind economically, and has begun to experience many of the standard problems of economically declining areas: high crime, poor health, expensive public benefits burdens, lack of transit, etc. As a result, public budgets of the entire urban area have become strained, and the wealthier and whiter residents of the outskirts have found themselves paying higher taxes for services to the central city. More upsetting to them, their children are attending the same schools as academically underperforming students from impoverished backgrounds, in an underfunded citywide school district.
+
+Accordingly, the residents of the outskirts have petitioned the state legislature to permit them to incorporate as independent municipalities, with their own tax bases and school districts. The legislature has enacted a bill permitting the incorporation.
+
+The leader of a local civil rights group has appeared in your office. According to her organization, the anticipated result of this municipal incorporation would be that the municipalities on the outskirts would have schools that are substantially whiter and substantially better-funded than before; the remainder of the city in the middle would have schools with a substantially greater minority population and, unsurprisingly, those schools would also suffer a substantial decline in resources. Lots of other disparaties would be created too, but her organization is focused on education.
+
+Based on the cases we've read thus far, and assuming there's a plaintiff with standing, does her organization have a basis for challenging the municipal incorporation under the Equal Protection Clause? 
+
+The organization has extensive investigative resources, so if there are particular kinds of evidence that need to be developed in order to provide a factual grounding for such a challenge, she'd probably appreciate it if you told her where to look.
+
 
 ### San Antonio Independent School District v. Rodriguez 
 
@@ -4709,9 +4908,9 @@ The majority is, of course, correct when it suggests that the process of determi
 
 The effect of the interaction of individual interests with established constitutional guarantees upon the degree of care exercised by this Court in reviewing state discrimination affecting such interests is amply illustrated by our decision last Term in Eisenstadt v. BairdIn Baird, the Court struck down as violative of the Equal Protection Clause a state statute which denied unmarried persons access to contraceptive devices on the same basis as married persons. The Court purported to test the statute under its traditional standard whether there is some rational basis for the discrimination effected. S.Ct.—1035. In the context of commercial regulation, the Court has indicated that the Equal Protection Clause 'is offended only if the classification rests on grounds wholly irrelevant to the achievement of the State's objective.' See, e.g., McGowan v. Maryland,  ; Kotch v. Board of River Port Pilot Comm'rs, And this lenient standard is further weighted in the State's favor by the fact that '(a) statutory discrimination will not be set aside if any state of facts reasonably may be conceived (by the Court) to justify it.' McGowan v. MarylandBut in Baird the Court clearly did not adhere to these highly tolerant standards of traditional rational review. For although there were conceivable state interests intended to be advanced by the statute—e.g., deterrence of premarital sexual activity and regulation of the dissemination of potentially dangerous articles—the Court was not prepared to accept these interests on their face, but instead proceeded to test their substantiality by independent analysis. See 405 U.S.S.Ct.—1039. Such close scrutiny of the State's interests was hardly characteristic of the deference shown state classifications in the context of economic interests. See, e.g., Goesaert v. Cleary; Kotch v. Board of River Port Pilot Comm'rs. Yet I think the Court's action was entirely appropriate, for access to and use of contraceptives bears a close relationship to the individual's constitutional right of privacy. See 405 U.S. 454; S.Ct. 1038—1039; —1044 (White, J., concurring in result). See also Roe v. WadeS.Ct.—727.
 
-A similar process of analysis with respect to the invidiousness of the basis on which a particular classification is drawn has also influenced the Court as to the appropriate degree of scrutiny to to accorded any particular case. The highly suspect character of classifications based on race, nationality, or alienage is well established. The reasons why such classifications call for close judicial scrutiny are manifold. Certain racial and ethnic groups have frequently been recognized as 'discrete and insular minorities' who are relatively powerless to protect their interests in the political process. See Graham v. Richardson, 91 S.Ct.; United States v. Carolene Products Co.—153, n. 4, 783—784, Moreover, race, nationality, or alienage is "in most circumstances irrelevant' to any constitutionally acceptable legislative purpose, Kiyoshi Hirabayashi v. United States, .' McLaughlin v. Florida, Instead, lines drawn on such bases are frequently the reflection of historic prejudices rather than legislative rationality. It may be that all of these considerations, which make for particular judicial solicitude in the face of discrimination on the basis of race, nationality, or alienage, do not coalesce—or at least not to the same degree—in other forms of discrimination. Nevertheless, these considerations have undoubtedly influenced the care with which the Court has scrutinized other forms of discrimination.
+A similar process of analysis with respect to the invidiousness of the basis on which a particular classification is drawn has also influenced the Court as to the appropriate degree of scrutiny to to accorded any particular case. The highly suspect character of classifications based on race, nationality, or alienage is well established. The reasons why such classifications call for close judicial scrutiny are manifold. Certain racial and ethnic groups have frequently been recognized as 'discrete and insular minorities' who are relatively powerless to protect their interests in the political process. Moreover, race, nationality, or alienage is "in most circumstances irrelevant' to any constitutionally acceptable legislative purpose, Kiyoshi Hirabayashi v. United States, McLaughlin v. Florida. Instead, lines drawn on such bases are frequently the reflection of historic prejudices rather than legislative rationality. It may be that all of these considerations, which make for particular judicial solicitude in the face of discrimination on the basis of race, nationality, or alienage, do not coalesce—or at least not to the same degree—in other forms of discrimination. Nevertheless, these considerations have undoubtedly influenced the care with which the Court has scrutinized other forms of discrimination.
 
-In James v. Strangethe Court held unconstitutional a state statute which provided for recoupment from indigent convicts of legal defense fees paid by the State. The Court found that the statute impermissibly differentiated between indigent criminals in debt to the State and civil judgment debtors, since criminal debtors were denied various protective exemptions afforded civil judgment debtors  The Court suggested that in reviewing the statute under the Equal Protection Clause, it was merely applying the traditional requirement that there be "some rationality" in the line drawn between the different types of debtors. Yet it then proceeded to scrutinize the statute with less than traditional deference and restraint. Thus, the Court recognized 'that state recoupment statutes may betoken legitimate state interests' in recovering expenses and discouraging fraud. Nevertheless, Mr. Justice Powell, speaking for the Court, concluded that
+In James v. Strange the Court held unconstitutional a state statute which provided for recoupment from indigent convicts of legal defense fees paid by the State. The Court found that the statute impermissibly differentiated between indigent criminals in debt to the State and civil judgment debtors, since criminal debtors were denied various protective exemptions afforded civil judgment debtors  The Court suggested that in reviewing the statute under the Equal Protection Clause, it was merely applying the traditional requirement that there be "some rationality" in the line drawn between the different types of debtors. Yet it then proceeded to scrutinize the statute with less than traditional deference and restraint. Thus, the Court recognized 'that state recoupment statutes may betoken legitimate state interests' in recovering expenses and discouraging fraud. Nevertheless, Mr. Justice Powell, speaking for the Court, concluded that
 
 'these interests are not thwarted by requiring more even treatment of indigent criminal defendants with other classes of debtors to whom the statute itself repeatedly makes reference. State recoupment laws, notwithstanding the state interests they may serve, need not blight in such discriminatory fashion the hopes of indigents for self sufficiency and self respect.' 
 
@@ -4763,7 +4962,7 @@ Nor can we ignore the extent to which, in contrast to our prior decisions, the S
 
 In the final anaylsis, then The invidious characteristics of the group wealth classification present in this case merely serve to emphasize the need for careful judicial scrutiny of the State's justifications for the resulting interdistrict discrimination in the educational opportunity afforded to the schoolchildren of Texas.
 
-The nature of our inquiry into the justifications for state discrimination is essentially the same in all equal protection cases: We must consider the substantiality of the state interests sought to be served, and we must scrutinize the reasonableness of the means by which the State has sought to advance its interests. See Police Dept. of City of Chicago v. Mosley, Differences in the application of this test are, in my view, a function of the constitutional importance of the interests at stake and the invidiousness of the particular classification. In terms of the asserted state interests, the Court has indicated that it will require, for instance, a 'compelling,' Shapiro v. Thompson, or a 'substantial' or 'important,' Dunn v. Blumstein, state interest to justify discrimination affecting individual interests of constitutional significance. Whatever the differences, if any, in these descriptions of the character of the state interest necessary to sustain such discrimination, basic to each is, I believe, a concern with the legitimacy and the reality of the asserted state interests. Thus, when interests of constitutional importance are at stake, the Court does not stand ready to credit the State's classification with any conceivable legitimate purpose,87 but demands a clear showing that there are legitimate state interests which the classification was in fact intended to serve. Beyond the question of the adequacy of the State's purpose for the classification, the Court traditionally has become increasingly sensitive to the means by which a State chooses at act as its action affects more directly interests of constitutional significance. See, e.g., United States v. Robel, ; Shelton v. Tucker, Thus, by now, 'less restrictive alternatives' analysis is firmly established in equal protection jurisprudence. See Dunn v. Blumstein S.Ct.; Kramer v. Union Free School District No. 15, It seems to me that the range of choice we are willing to accord the State in selecting the means by which it will act, and the care with which we scrutinize the effectiveness of the means which the State selects, also must reflect the constitutional importance of the interest affected and the invidiousness of the particular classification. Here, both the nature of the interest and the classification dictate close judicial scrutiny of the purposes which Texas seeks to serve with its present educational financing scheme and of the means it has selected to serve that purpose.
+The nature of our inquiry into the justifications for state discrimination is essentially the same in all equal protection cases: We must consider the substantiality of the state interests sought to be served, and we must scrutinize the reasonableness of the means by which the State has sought to advance its interests. See Police Dept. of City of Chicago v. Mosley, Differences in the application of this test are, in my view, a function of the constitutional importance of the interests at stake and the invidiousness of the particular classification. In terms of the asserted state interests, the Court has indicated that it will require, for instance, a 'compelling,' Shapiro v. Thompson, or a 'substantial' or 'important,' Dunn v. Blumstein, state interest to justify discrimination affecting individual interests of constitutional significance. Whatever the differences, if any, in these descriptions of the character of the state interest necessary to sustain such discrimination, basic to each is, I believe, a concern with the legitimacy and the reality of the asserted state interests. Thus, when interests of constitutional importance are at stake, the Court does not stand ready to credit the State's classification with any conceivable legitimate purpose, but demands a clear showing that there are legitimate state interests which the classification was in fact intended to serve. Beyond the question of the adequacy of the State's purpose for the classification, the Court traditionally has become increasingly sensitive to the means by which a State chooses at act as its action affects more directly interests of constitutional significance. See, e.g., United States v. Robel, ; Shelton v. Tucker, Thus, by now, 'less restrictive alternatives' analysis is firmly established in equal protection jurisprudence. See Dunn v. Blumstein; Kramer v. Union Free School District No. 15, It seems to me that the range of choice we are willing to accord the State in selecting the means by which it will act, and the care with which we scrutinize the effectiveness of the means which the State selects, also must reflect the constitutional importance of the interest affected and the invidiousness of the particular classification. Here, both the nature of the interest and the classification dictate close judicial scrutiny of the purposes which Texas seeks to serve with its present educational financing scheme and of the means it has selected to serve that purpose.
 
 The only justification offered by appellants to sustain the discrimination in educational opportunity caused by the Texas financing scheme is local educational control. Presented with this justification, the District Court concluded that '(n)ot only are defendants unable to demonstrate compelling state interests for their classifications based upon wealth, they fail even to establish a reasonable basis for these classifications.' 337 F.Supp.. I must agree with this conclusion.
 
@@ -5069,7 +5268,103 @@ What is at stake is whether university administrators may justify systematic rac
 
 Because UT has failed to satisfy strict scrutiny, I respectfully dissent.
 
-## Gender and Intermediate Scrutiny
+### Exercise: Affirmative Action
+
+The University of Liberalland (U of L) is the state's flagship university, and has very high admissions standards. However, it has many more students who apply each year than meet its standards. Its medical school, in particular, is very prestigious and accepts far fewer students each year than it would like to, were teaching resources unlimited.
+
+Recently, several studies have been published suggesting that medical care for patients from disadvantaged groups is significantly enhanced by having doctors who are members of those groups, and who can empathize with the difficulties experienced by those communities. As it turns out, Liberalland has several major urban areas with lower-income, racially segregated, inner cities, and with distinctive health problems rooted in the conditions of those areas (crime, lack of access to healthy food, mold/lead poisoning and other housing deficiencies, the physical consequences of stress from racial discrimination, etc.), and doctors from U of L often end up working in hospitals that serve those areas.
+
+You're the general counsel of the U of L. The dean of the medical school comes to you to ask your advice about several potential policies to better serve these communities. These include:
+
+- Creating a special admissions track for students who are from the economic, racial, and geographic backgrounds reflected in the above-noted areas (ERGB students).
+
+- Funding special scholarships for ERGB students who commit to working in the relevant areas.
+
+- Randomly selecting the class from among qualified applicants, in the hopes that this policy will increase the representation of ERGB students.
+
+- Randomly selecting the class, but reshuffling and re-picking if a given randomly selected class does not have a sufficiently large number of ERGB students.
+
+Advise the dean as to whether any of these policies, or any other policies which you may come up with, are constitutionally permissible.
+
+## Sex/Gender and Intermediate Scrutiny
+
+### Note on Sex/Gender Discrimination 
+
+Now we're moving to our second broad Equal Protection topic, intermediate scrutiny and sex and gender classifications. This is actually going to run a lot shorter than our first topic, but not because it's less important. Rather, it will run shorter because the basic logical structure is the same, only the details of the standard differ (intermediate scrutiny rather than strict scrutiny), and there are some new questions that are hard to answer. But most of your understanding of race cases can transpose directly to sex and gender cases.^[n.b. I say "sex/gender" classifications, and otherwise use them interchangeably, but theorists who study the subject usually say that "sex" refers to a biological classification, and "gender" to a social role, and that they come apart.]
+
+Incidentally, intermediate scrutiny also applies to "legitimacy," that is, whether someone's parents were married. But this is pretty rare.
+
+**Applying Intermediate Scrutiny**
+
+There is one very interesting corner of the intermediate scrutiny rule in the sex/gender context. It turns out, probably (based on some old cases that may not survive if it ever comes up in the Roberts court), that the government is allowed to be more solicitous of the subordinated when it comes to gender than when it comes to race. That is, broad social remedial purposes are permissible under intermediate scrutiny, but not strict scrutiny: the government can take the initiative to remedy social gender-based injustice. Justice O'Connor's majority opinion in Mississippi University for Women v. Hogan, 458 U.S. 718 (1982), discusses this at length, although doesn't apply it; earlier cases that did apply it, and which O'Connor cites, include Califano v. Webster, 430 U.S. 313 (1977), and Schlesinger v. Ballard, 419 U.S. 498 (1975). It's easiest just to quote her directly:
+
+> It is readily apparent that a State can evoke a compensatory purpose to justify an otherwise discriminatory classification only if members of the gender benefited by the classification actually suffer a disadvantage related to the classification. We considered such a situation in Califano v. Webster, 430 U.S. 313 (1977), which involved a challenge to a statutory classification that allowed women to eliminate more low-earning years than men for purposes of computing Social Security retirement benefits. Although the effect of the classification was to allow women higher monthly benefits than were available to men with the same earning history, we upheld the statutory scheme, noting that it took into account that women "as such have been unfairly hindered from earning as much as men" and "work[ed] directly to remedy" the resulting economic disparity. 
+
+> A similar pattern of discrimination against women influenced our decision in Schlesinger v. Ballard, supra. There, we considered a federal statute that granted female Naval officers a 13-year tenure of commissioned service before mandatory discharge, but accorded male officers only a 9-year tenure. We recognized that, because women were barred from combat duty, they had had fewer opportunities for promotion than had their male counterparts. By allowing women an additional four years to reach a particular rank before subjecting them to mandatory discharge, the statute directly compensated for other statutory barriers to advancement.
+
+But we know from, e.g., *Parents Involved* (which we discussed, but didn't read), that this isn't permissible in the case of race.  What gives?  This seems kind of perverse:  Remedying social injustice against racial minorities isn't a compelling interest, but remedying social injustice against women is an important interest? 
+
+To be clear: the perversity follows from the fact that this outcome seems to fly in the face of the original purpose as well as key normative meaning of the Reconstruction amendments.  The 14th Amendment is supposed, if we're originalist at all, to provide the strongest protection to that racially defined class of people who have been victimized by the legacy of slavery. So if the levels of scrutiny framework means that it forbids government action to actually make up for some of the wrongs committed against that group, while permitting the government to make up for wrongs committed against another group who were not intended to be the original beneficiaries of the amendment's protection, that seems ludicrous.
+
+Here's an argument to potentially justify this difference.  I don't necessarily endorse it, but it's worth considering: the cases striking down remedial purposes tend to mostly strike down state action; the cases upholding remedial purposes tend to mostly uphold federal action.  Thus, an alternative way to read these cases, although one that requires being a little aggressive in one's interpretation of the corpus, is to say that the federal government just has broader remedial power over social injustice than the states do, because a) the enforcement clauses of the reconstruction amendments arguably grant Congress explicit remedial powers plus because b) after all, the whole point of them was as part and parcel of a federal effort to remedy state discrimination and regularize the status of an egregiously oppressed group of people, and c) let's not forget that the equal protection clause, technically speaking, doesn't even apply to the federal government: it was reverse-incorporated through the 5th Amendment's due process clause in Bolling v. Sharpe, but it doesn't have to be the case that the standards are exactly the same. Anyway, one occasionally hears arguments along these lines.
+
+What about substantial relatedness? People typically say that the classification can be a little overinclusive or underinclusive. Another way to think about substantial relatedness is that the government doesn't have to do as little gender classification as humanly possible the way it would with race. But its gender classification does still have to be pretty important for the goals it's pursuing.
+
+**Why intermediate scrutiny?**
+
+In view of the fact that there has been a massive history of discrimination against women, why not just apply strict scrutiny to sex/gender classifiations?  A number of possible justifications come to mind:
+
+- Originalism: the 14th amendment was actually aimed at race, so it ought to have the strictest standard. Potential counterargument: we apply strict scrutiny to categories other than race, most notably alienage. See generally Bernal v. Fainter, 467 U.S. 216 (1984).
+
+- Carolene Products: although there's a history of official discrimination against women as well as lots of present social discrimination, women at least in principle are less politically vulnerable than racial minorities, since, after all, women make up a numerical majority of the population. So the need for constitutional protection is perhaps somewhat lesser.
+
+- Historical: Congress tried to enact an equal rights amendment specifically providing for equal rights for women. It didn't get ratified by enough states. Arguably, that failure makes it less democratically legitimate to turn around and apply strict scrutiny to sex/gender classifications.
+
+- Pragmatic: there are some actual meaningful biological differences that more-or-less track sex lines (like reproductive role, obviously); the same cannot be said for race, according to most credible scientists. So maybe that justifies being a little less cautious about sex classifications ---although the answer to this justification might be "well, that doesn't preclude strict scrutiny, because consideration of biological differences could come in on the narrow tailoring prong."
+
+**What counts as sex/gender discrimination?**
+
+Because lots of other characteristics are linked to sex and gender, it cannot be obvious what sorts of things constitute sex/gender discrimination.  In particular, here are two things that might count, but do not do so under current doctrine:
+
+- *Sexual orientation*.  You might argue that sexual orientation discrimination is just a form of discrimination based on the relationship between a person's sex/gender and the sex/gender of their preferred partner(s). For some reason, however, the Court has never held this.
+
+- *Pregnancy*.  You might think that since only women can become pregnant, and sex difference is (arguably) defined by biological reproductive role, discrimination against the pregnant constitutes discrimination against women.  well... I've got some bad news for you. In *Geduldig v. Aiello*, 417 U.S. 484 (1974), the Court held that pregnancy discrimination was not the same as sex discrimination, and hence not subject to any kind of heightened scrutiny.
+
+*Geduldig* is worth exploring a little bit further. The case arose in the context of California's disability insurance system for employees who were temporarily disabled from working. The insurance benefits excluded "disability resulting from an individual’s court commitment as a dipsomaniac, drug addict, or sexual psychopath," as well as "normal pregnancies" (as opposed to, for example, unusually injurious pregnancies). 
+
+You might think that since only women can get pregnant, excluding pregnancy, .  Sure, there's a sense in which pregnancy is a voluntary disability, since it's the result of the person's own choices---but so are lots of other disabilities that would be covered by the insurance. If an extreme sports afficionado gets temporarily disabled because of a parkour/base jumping injury, for example, they'd get covered. 
+
+But the Court said that this wasn't sex discrimination.  Here are the relevant parts:
+
+> The program does not discriminate with respect to the persons or groups eligible for its protection, and there is no evidence that it discriminates against any definable group or class in terms of the aggregate risk protection derived from the program
+
+> The dissenting opinion to the contrary, this case is thus a far cry from cases like Reed v. Reed, and Frontiero v. Richardson, involving discrimination based upon gender as such. The California insurance program does not exclude anyone from benefit eligibility because of gender, but merely removes one physical condition -- pregnancy -- from the list of compensable disabilities. While it is true that only women can become pregnant, it does not follow that every legislative classification concerning pregnancy is a sex-based classification like those considered in Reed and Frontiero. Normal pregnancy is an objectively identifiable physical condition with unique characteristics. Absent a showing that distinctions involving pregnancy are mere pretexts designed to effect an invidious discrimination against the members of one sex or the other, lawmakers are constitutionally free to include or exclude pregnancy from the coverage of legislation such as this on any reasonable basis, just as with respect to any other physical condition.
+
+> The lack of identity between the excluded disability and gender as such under this insurance program becomes clear upon the most cursory analysis. The program divides potential recipients into two groups -- pregnant women and nonpregnant persons. While the first group is exclusively female, the second includes members of both sexes. The fiscal and actuarial benefits of the program thus accrue to members of both sexes.
+
+> Indeed, the appellant submitted to the District Court data that indicated that both the annual claim rate and the annual claim cost are greater for women than for men. As the District Court acknowledged, "women contribute about 28 percent of the total disability insurance fund and receive back about 38 percent of the fund in benefits."  Several amici curiae have represented to the Court that they have had a similar experience under private disability insurance programs.
+
+Under the rational basis test,  California's decision clearly passes muster, as the Court notes. The budget was just about balanced, and, obviously, lots of people miss work for pregnancies: to require California to cover loss of work for pregnancy would have either totally busted the budget or required a massive (and regressive) raise in premiums paid by employees for the program, and defeat the state's goals. 
+
+Here are some things you might think about this case: 
+
+- Is the Court perhaps operating under a Washington v. Davis kind of intuition: this is really just a kind of disparate impact? 
+
+- But is that idea fundamentally silly?  It's not incidental that excluding pregnancy only has an impact on women, it's built directly into the nature of exclusion: the capacity to become pregnant is part of the concept of human femaleness. It's not facially neutral. Come on. 
+ 
+- Suppose we changed the hypo to get rid of the actuarial benefits to non-pregnant woman which the opinion mentioned?   For example, suppose the stage forbids pregnant women from working certain jobs deemed dangerous to the fetus? Here, there isn't this same kind of sex-neutral financial benefit, the burden falls all on women. Would that be sex discrimination?  Or would the reasoning of *Geduldig* still apply?
+
+There are some interesting refinements that we'll see when we look at the VMI case, mainly related to the question of whether the government can rely on statistical generalizations about men and women. Other than that, since we're doing sex/gender quickly in this course, it behooves me to point you to the other important cases cases that people tend to assign when it gets longer treatment:
+
+- *Nguyen v. Ins*, 533 U.S. 53 (2001) (additional proof of parentage requirements for citizenship of U.S. citizen father rather than U.S. citizen mother passes intermediate scrutiny) (see also Parham v. Hughes, 441 U.S. 347 (1979) for similar rule upheld re: wrongful death suits).
+
+- *Rostker v. Goldberg*, 453 U.S. 57 (1981) (a really weird case: exempting women from the draft permissible because women were excluded from combat---the government's own prior discrimination was given as the substantial interest for the government's discrimination).
+
+- *Personnel Administrator of Massachusetts v. Feeney*, 442 U.S. 256 (1979) (Washington v. Davis, but for sex).
+
+- *Frontiero v. Richardson*, 411 U.S. 677 (1973) (plurality flirts with strict scrutiny, strikes down gender-based distinction in military spousal dependent benefits---also we get to see Potter Stewart singlehandedly messing up equal protection law by concurring without an opinion rather than giving the plurality a majority---had he signed on, would we have strict scrutiny today? perhaps).
+
+- *Reed v. Reed*, 404 U.S. 71 (1971) (law preferring men to women as probate administrators unanimously struck down).
 
 ### Craig v. Boren
 
@@ -5566,6 +5861,31 @@ In an odd sort of way, it is precisely VMI's attachment to such old-fashioned co
 
 "A Gentleman can become what he wills to be. . ."I do not know whether the men of VMI lived by this code; perhaps not. But it is powerfully impressive that a public institution of higher education still in existence sought to have them do so. I do not think any of us, women included, will be better off for its destruction.
 
+### Exercise: Senior Executive Service
+
+The President of the United States has issued the following executive order: 
+
+> In the judgment of the President, pernicious gender-based socialization processes have impaired the capacity of the executive branch to function most effectively. Men, who are typically socialized from a very young age in our culture to be more confident and outgoing, tend to be promoted beyond their actual talents over women, who are typically socialized from a young age to be more humble and modest. Moreover, women have typically been socialized to display a more empathetic leadership style, which has been shown to be the most productive in high-level executive positions. 
+
+> Accordingly, all executive departments are instructed to prefer women for all roles in the Senior Executive Service [the federal classification for the highest-level civil service appointments]. In situation where the evaluation criteria for a position uses numerical scores, women are to be preferred to a degree equivalent to ten points on a scale of 100. In a situation where the evaluation criteria for a position are more subjective, where otherwise equally qualified men and women are available, selection must be made from the available women.
+
+A man who was rejected from a position in the Senior Executive Service in favor of a woman has filed suit, challenging this order under the Equal Protection Clause. As usual, you're a clerk to the judge in whose lap this case has fallen. Your judge has asked you to evaluate this claim, and also to answer the following additional questions: 
+
+1. Does your evaluation depend on whether the position in question was based on numerical scores or subjective evaluation? 
+
+2. Does your evaluation depend on whether or not the executive order includes credible references to the sociological, psychological, and/or gender studies literature substantiating its claims about socialization? 
+
+3. If the policy is unconstitutional, what could the President do to achieve the same goals in a constitutionally permissible way?
+
+
+### Exercise: Transgender hair
+
+Patricia Plaintiff, a transgender individual who was born with male physical features but who holds a female gender identity, has joined the Goldacre National Guard. The Guard has no gender-based regulations on hair length, however, it is customary for female recruits to wear their hair somewhat longer than male recruits, within the overall limitations provided by regulation. In boot camp, Patricia wore her hair at a customary female, rather than male, length.
+
+Her boot camp commander, in response to this choice of hair lengths, subjected Patricia to verbal disparagement and a variety of informal sanctions, and ultimately to a less desirable unit assignment that she otherwise would have qualified for upon graduation from boot camp. At the unit to which she is assigned, Patricia is ordered to live in the men's barracks, over her objections.
+
+Unsurprisingly, Patricia has brought suit, seeking assignment to the more desirable unit and to a woman's barracks on an Equal Protection theory. You are the clerk to the trial judge. Assuming that the court has jurisdiction over these decisions, and that they give rise to a right of action for injunctive relief (in particular, assume that the military context does not compromise the court's jurisdiction or remedial power), advise your judge on the standard under which Patricia's claims are to be considered, and the result that ought to be reached.
+
 
 # Gay Rights at the Intersection of Substantive Due Process and Equal Protection 
 
@@ -5749,9 +6069,44 @@ The Court today, announcing that Amendment 2 "defies . conventional [constitutio
 
 I would not myself indulge in such official praise for heterosexual monogamy, because I think it no business of the courts (as opposed to the political branches) to take sides in this culture war.
 
-But the Court today has done so, not only by inventing a novel and extravagant constitutional doctrine to take the victory away from traditional forces, but even by verbally disparaging as bigotry adherence to traditional attitudes. To suggest, for example, that this constitutional amendment springs from nothing more than "'a bare . desire to harm a politically unpopular group,' " quoting Department of Agriculture v. Moreno, is nothing short of insulting. (It is also nothing short of preposterous to call "politically unpopular" a group which enjoys enormous influence in American media and politics, and which, as the trial court here noted, though composing no more than 4% of the population had the support of 46% of the voters on Amendment 2, see App. to Pet. for Cert. C-18.)
+But the Court today has done so, not only by inventing a novel and extravagant constitutional doctrine to take the victory away from traditional forces, but even by verbally disparaging as bigotry adherence to traditional attitudes. To suggest, for example, that this constitutional amendment springs from nothing more than "'a bare . desire to harm a politically unpopular group,' " quoting Department of Agriculture v. Moreno, is nothing short of insulting. (It is also nothing short of preposterous to call "politically unpopular" a group which enjoys enormous influence in American media and politics, and which, as the trial court here noted, though composing no more than 4% of the population had the support of 46% of the voters on Amendment 2.)
 
-When the Court takes sides in the culture wars, it tends to be with the knights rather than the villeins—and more specifically with the Templars, reflecting the views and values of the lawyer class from which the Court's Members are drawn. How that class feels about homosexuality will be evident to anyone who wishes to interview job applicants at virtually any of the Nation's law schools. The interviewer may refuse to offer a job because the applicant is a Republican; because he is an adulterer; because he went to the wrong prep school or belongs to the wrong country club; because he eats snails; because he is a womanizer; because she wears real-animal fur; or even because he hates the Chicago Cubs. But if the interviewer should wish not to be an associate or partner of an applicant because he disapproves of the applicant's homosexuality, then he will have violated the pledge which the Association of American Law Schools requires all its member schools to exact from job interviewers: "assurance of the employer's willingness" to hire homosexuals. Bylaws of the Association of American Law Schools, Inc. § 6-4(b); Executive Committee Regulations of the Association of American Law Schools § 6 in 1995 Handbook, Association of American Law Schools. This law-school view of what "prejudices" must be stamped out may be contrasted with the more plebeian attitudes that apparently still prevail in the United States Congress, which has been unresponsive to repeated attempts to extend to homosexuals the protections of federal civil rights laws, see, e. g., Employment NonDiscrimination Act of 1994, S. 2238, 103d Cong., 2d Sess. (1994); Civil Rights Amendments of 1975, H. R. 5452, 94th Cong., 1st Sess. (1975), and which took the pains to exclude them specifically from the Americans with Disabilities Act of 1990, see 42 U. S. C. § 12211(a) (1988 ed., Supp. V).
+When the Court takes sides in the culture wars, it tends to be with the knights rather than the villeins—and more specifically with the Templars, reflecting the views and values of the lawyer class from which the Court's Members are drawn. How that class feels about homosexuality will be evident to anyone who wishes to interview job applicants at virtually any of the Nation's law schools. The interviewer may refuse to offer a job because the applicant is a Republican; because he is an adulterer; because he went to the wrong prep school or belongs to the wrong country club; because he eats snails; because he is a womanizer; because she wears real-animal fur; or even because he hates the Chicago Cubs. But if the interviewer should wish not to be an associate or partner of an applicant because he disapproves of the applicant's homosexuality, then he will have violated the pledge which the Association of American Law Schools requires all its member schools to exact from job interviewers: "assurance of the employer's willingness" to hire homosexuals. Bylaws of the Association of American Law Schools, Inc. § 6-4(b); Executive Committee Regulations of the Association of American Law Schools § 6 in 1995 Handbook, Association of American Law Schools. This law-school view of what "prejudices" must be stamped out may be contrasted with the more plebeian attitudes that apparently still prevail in the United States Congress, which has been unresponsive to repeated attempts to extend to homosexuals the protections of federal civil rights laws, and which took the pains to exclude them specifically from the Americans with Disabilities Act.
+
+### Note on Animus and Rational basis with "bite"
+
+Romer is often described as a case of "rational basis with bite," or a more strict than ordinary use of the rational basis standard, associated with a judicial belief that the government acted with "animus" toward the challenger.  
+
+Rational basis with bite doesn't exist, at least not officially. Some scholars, and occasionally a lower court, will talk about "rational basis with bite" to mean that the court nominally applies rational basis to state action taken against certain disadvantaged groups ---the disabled, gays and lesbians---but really applies something stricter.
+
+A key example is *Cleburne v. Cleburne Living Center*, 473 U.S. 432 (1985). The city of Cleburne imposed special zoning requirements on a group home for citizens with cognitive disabilities and denied them a permit. The Supreme Court rejected the court of appeals's attempt to treat mental disability as a quasi-suspect classification, but nonetheless struck down the permit denial in question. The decision primarily focused on the fact that the city's asserted justifications for the law all depended on fears and stereotypes about the mentally disabled: that nearby property owners wouldn't want to be around them, that nearby junior high school students might harass them. What's striking about Cleburne is that the court was not very deferential to the city's reasoning process at all: it completely cast aside the city's notion that housing the mentally disabled would be different from other kinds of group housing that were not subject to these special demands, such as housing for the elderly. Which, let's face it, was correct in a common-sense way--the city's ruling does seem to have actually been based on stereotypes about the mentally disabled, at least to hear the court tell it---but doesn't really feel like rational basis review.
+
+A similar example is *Plyler v. Doe*, 457 U.S. 202 (1981), which struck down a Texas law denying an education to undocumented immigrant children. Here's part of what Justice Brennan said for the court there:
+
+> Appellants argue that the classification at issue furthers an interest in the "preservation of the state's limited resources for the education of its lawful residents. Of course, a concern for the preservation of resources, standing alone, can hardly justify the classification used in allocating those resources. The State must do more than justify its classification with a concise expression of an intention to discriminate. Apart from the asserted state prerogative to act against undocumented children solely on the basis of their undocumented status -- an asserted prerogative that carries only minimal force in the circumstances of these cases -- we discern three colorable state interests that might support [the law]. 
+
+> First, appellants appear to suggest that the State may seek to protect itself from an influx of illegal immigrants. While a State might have an interest in mitigating the potentially harsh economic effects of sudden shifts in population, [the law] hardly offers an effective method of dealing with an urgent demographic or economic problem. There is no evidence in the record suggesting that illegal entrants impose any significant burden on the State's economy. To the contrary, the available evidence suggests that illegal aliens underutilize public services, while contributing their labor to the local economy and tax money to the state fisc. 
+
+> Second... appellants suggest that undocumented children are appropriately singled out for exclusion because of the special burdens they impose on the State's ability to provide high-quality public education. But the record in no way supports the claim that exclusion of undocumented children is likely to improve the overall quality of education in the State. As the District Court noted, the State failed to offer any credible supporting evidence that a proportionately small diminution of the funds spent on each child which might result from devoting some state funds to the education of the excluded group will have a grave impact on the quality of education. ... Of course, even if improvement in the quality of education were a likely result of barring some number of children from the schools of the State, the State must support its selection of this group as the appropriate target for exclusion. 
+
+> Finally, appellants suggest that undocumented children are appropriately singled out because their unlawful presence within the United States renders them less likely than other children to remain within the boundaries of the State, and to put their education to productive social or political use within the State. Even assuming that such an interest is legitimate, it is an interest that is most difficult to quantify. The State has no assurance that any child, citizen or not, will employ the education provided by the State within the confines of the State's borders.
+
+Again, this decision seems right as a matter of morality and policy, but it doesn't look like the rational basis review Justice Brennan claimed it was. Notice, in particular, how he demands the state prove that its cost-saving measure will improve education. But wait a minute, wasn't the burden in rational basis supposed to be on the challenger? Brennan also went on talking about a "substantial state interest" rather than the usual "legitimate state interest."^[Note that the constitutional rules on on how immigrants are treated vary widely depending on whether it's the state or the federal government's doing the treating.]
+
+Another example, along similar lines, is *USDA v. Moreno*, 413 U.S. 528 (1973). There, the court, again via Justice Brennan, struck down limitation of food stamp assistance to related, not unrelated, people living together. The government had claimed that it was justifiable because Congress could have thought unrelated households are more likely to be committing welfare fraud. The court barely discussed that justification, essentially dismissing it out of hand.
+
+And then, of course, there are the gay rights cases. So what do we make of this? On balance, it's probably fair to say that if it looks like the state is picking on some group, where it looks like that group is disadvantaged and it looks like the decision is rooted in stereotypes and prejudice---undocumented immigrants, food stamp recipients, the disabled, gays and lesbians---even though that group isn't picked out by some suspect or semi-suspect classification, there's some chance that instead of choosing to create a new semi-suspect classification, the court will just quietly apply a rougher rational basis standard than usual.
+
+Reminder: other than in rational basis with bite cases, rational basis is the default rule, and people who are trying to win greater protection for some group or another often show and ask the Court to hold that a given classification ought to be added to the list of suspect or semi-suspect classifications. And they typically lose: they lost with disability, with socioeconomic class, and, to this day, the Court still hasn't held that sexual orientation is a semi-suspect class, even as it just recently struck down the limitation of marriage to opposite-sex couples on a fundamental rights theory.
+
+**A table of classifications and levels of scrutiny**
+
+|Level of Scrutiny|Importance of government interest|Relationship|Core Classification|
+|Strict Scrutiny|Compelling Interest|Narrowly Tailored|Race (suspect classifications)|
+|Intermediate Scrutiny|Important Interest|Substantially Related|Sex/Gender (semi-suspect classifications)|
+|Rational Basis|Legitimate Interest|Rationally Related|Catch-all|
+
+
 
 ### Lawrence v. Texas
 
@@ -6130,6 +6485,27 @@ Nor, under the broader definition, can they claim that the States have restricte
 Instead, the States have refused to grant them governmental entitlements. Petitioners claim that as a matter of "liberty," they are entitled to access privileges and benefits that exist solely because of the government. They want, for example, to receive the State's imprimatur on their marriages—on state issued marriage licenses, death certificates, or other official forms. And they want to receive various monetary benefits, including reduced inheritance taxes upon the death of a spouse, compensation if a spouse dies as a result of a work-related injury, or loss of consortium damages in tort suits. But receiving governmental recognition and benefits has nothing to do with any understanding of "liberty" that the Framers would have recognized.
 
 The suggestion of petitioners and their amici that antimiscegenation laws are akin to laws defining marriage as between one man and one woman is both offensive and inaccurate. "America's earliest laws against interracial sex and marriage were spawned by slavery." P. Pascoe, What Comes Naturally: Miscegenation Law and the Making of Race in America 19 (2009). For instance, Maryland's 1664 law prohibiting marriages between "'freeborne English women'" and "'Negro Sla[v]es'" was passed as part of the very act that authorized lifelong slavery in the colony. -20. Virginia's antimiscegenation laws likewise were passed in a 1691 resolution entitled "An act for suppressing outlying Slaves." Act of Apr. 1691, Ch. XVI, 3 Va. Stat. 86 (W. Hening ed. 1823) (reprint 1969) (italics deleted). "It was not until the Civil War threw the future of slavery into doubt that lawyers, legislators, and judges began to develop the elaborate justifications that signified the emergence of miscegenation law and made restrictions on interracial marriage the foundation of post-Civil War white supremacy." Pascoe. 
+
+
+### Exercise: Gerrymandering
+
+The State of Goldenacre has 100,000 people, evenly divided between [registered] Democrats and Republicans. In 2016, the territory is divided into five state legislative districts, with roughly 20,000 voters between them, and roughly equal numbers of Democrats and Republicans in each (each district is contested).
+
+Propelled by the landslide national election of a slightly-less unpopular candidate than the other one, in the election of 2016, the Democrats win a majority in the state legislature. Immediately after their legislative session starts, they redraw the districts as follows: 
+
+District 1: 20,000 Republicans, 0 Democrats
+
+District 2: 7,500 Republicans, 12,500 Democrats
+
+District 3: 7,500 Republicans, 12,500 Democrats
+
+District 4: 7,500 Republicans, 12,500 Democrats
+
+District 5: 7,500 Republicans, 12,500 Democrats
+
+The state Republican party, plus an individual Republican voter in each district, file suit to challenge the redistricting under the Equal Protection and Due Process Clauses of the 14th Amendment.
+
+Does it depend on the irregularity of the shape of the districts? 
 
 # Congress's Enforcement Power
 
