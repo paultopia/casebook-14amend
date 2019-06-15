@@ -6507,7 +6507,7 @@ Does it depend on the irregularity of the shape of the districts?
 
 # Congress's Enforcement Power
 
-## Note on Enforcement Powers
+### Note on Enforcement Powers
 
 The notion of Congressional power to enforce the Reconstruction Amendments immediately raises a number of mixed federalism/separation of powers questions: 
 
