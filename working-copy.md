@@ -1,8 +1,169 @@
-14th Amendment Course
+---
+title: "14th Amendment Case Reader"
+author: Paul Gowder
+date: June 16, 2019
+geometry: margin=1.2in
+toc: true
+toc-depth: 3
+fontsize: 12pt
+---
 
-Table of Contents
+## Note to Students
+
+This cases in this collection were collected and edited from an online open casebook service provided by the HLS Law Library.  You can view a web version of the casebook at [https://opencasebook.org/casebooks/148049-14th-amendment-course](https://opencasebook.org/casebooks/148049-14th-amendment-course).  
+
+Unfortunately, the cases in this collection were not formatted consistently on the server (and other sources, such as Westlaw, are worse), and I've been unable to perfectly clean them up (I wrote a number of custom cleanup scripts to automate some of the task, in addition to cleaning extensively by hand, but it turns out that reformatting hundreds of pages of inconsistently-formatted text isn't a one-person job!). In particular, I tried to clean out endless citations, references to reporter page numbers, etc., but the variety of formats entails that even the trickiest programming can't catch it all. 
+
+As a result, there are undoubtedly a number of partial citations, floating numbers, footnotes accidentally merged into the main text, etc. Please forgive the editing/cleaning glitches, and, when they become annoying, just think about the fact that they are tradeoff for not having to pay for a professionally copyedited casebook. :-) 
+
+This casebook is entirely composed of U.S. Supreme Court cases (which are not subject to copyright), plus materials written by me are (c) [Paul Gowder](https://gowder.io), 2017-2019 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). 
 
 # Procedural Due Process
+
+### Introductory Note on Procedural Due Process
+
+We begin with the most fundamental doctrine in all of American law: procedural due process.
+
+Why do I say that procedural due process is so fundamental? The answer is that it describes the difference between government power under law and government power not under law. Every government in the world that can fairly be said to be ruled under law must have some kind of doctrine that works something like procedural due process.
+
+To see why, let's look at the relevant part of the Fifth Amendment (the Fourteenth is only different in that it refers to states as the deprivers).
+
+> “No person shall be… deprived of life, liberty, or property, without due process of law.[]” 
+
+This is about as straightforward a legal rule as you can get.  You can't be shot, locked up, or have your stuff taken without due process. Of course, there is no such thing as a straightforward legal rule, so there are many questions we might want to ask about this. Consider the following.
+
+- Who is a person?
+
+- Who are the actors whose behavior this clause regulates?
+
+- What counts as a deprivation?
+
+- What counts as life, liberty, or property?
+
+- What constitutes due process of law?
+
+The answers to a number of these questions are pretty straightforward. For the most part, a person is a legal person: corporations yes, cats no. (My cat excepted.) Likewise, it's pretty clear that this stuff just applies to the government: to the feds through the fifth amendment and through the states through the fourteenth, although we might argue whether the passive voice construction should have meant that it applied to the states from the get-go, or even whether it obligates the government to regulate private violence.
+
+But the last three on this list are less than clear. Let's talk about them.
+
+**What interests?**
+
+First, what interests are protected? The Constitution says "life, liberty, and property." We kind of know what life and liberty are. But property? We think we know what that means. You took a class in 1L year, you got the notions of real property, and bundles of rights, and chattel---these are the kinds of things that make up property.
+
+But what about stuff that the government has promised to give you in the future? Well, in Goldberg v. Kelly, the Court held that this can be a property right too. The idea is that the recipient has a statutory entitlement to the benefits. And there were determinate statutory standards for who was entitled to receive the benefits. So it looks a lot like a property right---a legal rule saying that persons who meet the following conditions X Y and Z are entitled to get A B and C.
+
+>Appellant does not contend that procedural due process is not applicable to the termination of welfare benefits. Such benefits are a matter of statutory entitlement for persons qualified to receive them. Their termination involves state action that adjudicates important rights. The constitutional challenge cannot be answered by an argument that public assistance benefits are ”a ‘privilege,' and not a 'right.'" Relevant constitutional restraints apply as much to the withdrawal of public assistance benefits as to disqualification for unemployment compensation, or to denial of a tax exemption, or to discharge from public employment.
+
+So let's think about a hypo for this. Before class, I want you to come up with an answer to the question: If you go to a state college, what happens if the professor promises you a passing grade in this class, in exchange for your consistent attendance? Do you have a property interest in that?
+
+What if the professor writes it in the syllabus? “everyone who shows up to every class will pass?” 
+
+What if it’s part of official university policy? 
+
+What if the professor makes it into a contract? It looks like it’s supported by consideration... She wants you to show up to class, you want a passing grade...
+
+If not in your grades, what about your status as a student? If the professor accuses you of cheating on an exam, does she have to give you some kind of process before trying to expel you? Does it depend on the content of a written policy from the university?
+
+Board of Regents v. Roth, 408 U.S. 564 (1972), gives some insight on these questions. In that case, the Court held that a state university professor could have a property interest in his job, although he didn't have one in that case. And then later, in Cleveland Board of Education v. Loudermill, 470 U.S. 532 (1985), the Court found one in the job of a school security guard.
+
+Here's what the court said in Roth:
+
+> To have a property interest in a benefit, a person clearly must have more than an abstract need or desire for it. He must have more than a unilateral expectation of it. He must, instead, have a legitimate claim of entitlement to it. It is a purpose of the ancient institution of property to protect those claims upon which people rely in their daily lives, reliance that must not be arbitrarily undermined. It is a purpose of the constitutional right to a hearing to provide an opportunity for a person to vindicate those claims.
+
+So what do we get out of this? Number one, a property interest is created by some external law, like state law. You have a property interest only if the state says you're entitled to something. 
+
+Number two, it has to be important. You don't get due process if your state employer says that you have to take your lunch break at 12:30 instead of noon. 
+
+Number three, it kind of has to look like an entitlement, the kind of thing that you can justifiably rely on being provided under the substantive law in question. And you can usually tell that this is the case more or less by the extent to which the law conditions eligibility for the entitlement on specific facts or rules and operates more or less mechanically rather than by some kind of discretionary policy decision.
+
+And this is important: once an interest is created by state law, the procedures provided in state law do not control the process that is due. What controls is the constitution, which judges whether or not the procedures provided for by the state are sufficient. 
+
+**Property interests: summarized:**
+
+1. Created by state law 
+
+2. But once found, state law procedures do not control, how much process is due, constitution does. This is important. 
+
+3. Must be an important interest. 
+
+3. Must be an "entitlement” --- and we look for a justifiable reliance/expectation, and a test for eligibility that relies on specific fact-finding rather than open-ended policy decision. 
+
+**How much process is "due?"**
+
+There are lots of different kinds of legal process someone could get before the government deprives them of a life, liberty, or property interest. Let's think about some questions: 
+
+- Do you get a hearing before or after deprivation? (often the key issue) 
+
+- Do you get a lawyer? If so, is that lawyer to be paid for by the government? 
+
+- Do you get to call witnesses? If so, do you get compulsory process to get them (i.e., subpoenas)? 
+
+- Do you get to seek discovery from the government? 
+
+- Do you have a right to confront witnesses against you (like via cross-examination)?
+
+- Do you have a right to a judicial officer who is independent of the agency that's making an adverse decision?  Access to a formal court?  
+
+- Do you have a right to an appeal?
+
+In the criminal law, we have a full adversary process with extensive procedural protections for the defendant, and it has to happen before the defendant is deprived of liberty for an extended period of time---that's what the speedy trial right does, forbids the government from taking away people's liberty to a large degree before a hearing. Criminal defendants get a privilege against self-incrimination, a government provided lawyer, a right to confrontation, all kinds of things like that.
+
+By contrast, here's all the court said about the process to be provided to the fired government employee before the firing, in Cleveland Board of Education v. Loudermill, 470 US 532 (1985):
+
+> The essential requirements of due process, and all that respondents seek or the Court of Appeals required, are notice and an opportunity to respond. The opportunity to present reasons, either in person or in writing, why proposed action should not be taken is a fundamental due process requirement. The tenured public employee is entitled to oral or written notice of the charges against him, an explanation of the employer's evidence, and an opportunity to present his side of the story. To require more than this prior to termination would intrude to an unwarranted extent on the government's interest in quickly removing an unsatisfactory employee.
+
+However, the court also made clear that the reason so little process was provided pre-termination was because the employee was also provided with a full hearing after the fact, that is, he could get his job restored ex post. This question of pre-termination vs post-termination process is often the key issue in procedural due process cases.
+
+In Matthews v. Eldridge, which we are reading, the Court laid out a three-part balancing test that has been applied ever since. In application, it's honestly pretty ad hoc---it doesn't actually give courts lots of guidance (and as a result, in actual practice, you will have to look for cases similar to yours). But you still have to give lip service to it, and it tracks a kind of intuitive notion of fair process.
+
+The three parts are:
+
+First, **the weight of the private interest at stake**. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
+
+Second is **the risk of erroneous deprivation**. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
+
+Third is **the government's interest in avoiding additional process**. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
+
+**What counts as a deprivation?**
+
+Doesn't everything the government does deprive someone of something? After all, when they pass a law that says "no driving over sixty-five," that deprives me of the liberty to go really fast. When they impose income taxes, they deprive all of us of property. When the city demands that homeowners get a permit before building a shed on their land, it arguably deprives homeowners of both liberty and property. Does everyone get a hearing in all of these cases?
+
+Well, one case suggests maybe yes. In Londoner v. City and County of Denver the Court held that there had to be a hearing before imposing special assessments on landowners to pay for paving the road adjacent to their land.
+
+So how come I don't get a hearing before the IRS makes the University take a third of my salary out of my paycheck every month? Think about this question.
+
+**An algorithm for PDP problems**
+
+**Step 1: Is plaintiff challenging individualized state action?**
+
+If YES, proceed to step 2.
+
+If NO, stop here, there's no procedural due process claim.
+
+**Step 2: Does plaintiff have a life, liberty, or property interest?**
+
+If YES, proceed to step 3.
+
+If NO, stop here, there's no procedural due process claim.
+
+UNSURE? Here are some rules of thumb:
+
+- Has the state created an entitlement?
+
+- Do people rely on it?  
+
+- Is there an important interest at play?
+
+- Is it the sort of issuewhere the government decision could be right or wrong?
+
+**Step 3: Apply *Matthews* balancing**
+
+- How important is the individual interest?
+
+- What’s the government interest in avoiding more process? 
+
+- Would additional process make the government decision more accurate?
+
 
 ### Goldberg v. Kelly
 
@@ -1297,6 +1458,114 @@ Given the empirical and local value-laden nature of the questions that lie at th
 In sum, the police power, the superiority of legislative decisionmaking, the need for local decisionmaking, the comparative desirability of democratic decisionmaking, the lack of a manageable judicial standard, and the life-threatening harm that may flow from striking down regulations all argue against incorporation. Where the incorporation of other rights has been at issue, some of these problems have arisen. But in this instance all these problems are present, all at the same time, and all are likely to be present in most, perhaps nearly all, of the cases in which the constitutionality of a gun regulation is at issue. At the same time, the important factors that favor incorporation in other instances— e.g., the protection of broader constitutional objectives—are not present here. The upshot is that all factors militate against incorporation—with the possible exception of historical factors.
 
 ## Fundamental Rights
+
+### Note on Fundamental Rights
+
+***What's a fundamental right?**
+
+Usually we say the fundamental rights are the enumerated rights, all that stuff in the bill of rights about speech and religion and all that good stuff, plus a collection of unenumerated rights that the Court has, over time, found to be particularly important. 
+
+We usually say the big five unenumerated fundamental rights are "**privacy**" (about which which much more in the coming days), **marriage** (which is closely connected to privacy, and the two together to sexual liberty, etc.), **access to judicial process**/the courts, **interstate travel**, and **voting**.^[Although, really, in light of the 15, 19, and 26th amendments, it's a little weird to call voting unenumerated; in light of the actual due process clause it's a little weird to call access to the courts unenumerated too, but there we go.] You could probably talk some parental stuff in there too if you really wanted, see discussion and citation of leading cases in the main opinion in Troxel v. Granville, 530 U.S. 57 (2000).^[And see the first paragraph of Justice Scalia's dissent there for an important and very brief criticism of the whole business of enforcing unenumerated rights.] 
+
+A helpful way to think about this is as two separate clusters of rights, the "democratic citizen of the union" sorts of rights (voting, suing, moving from state to state) and the "personal and family" sorts of rights (marrying, intimate privacy, childrearing).
+
+So say the government infringes the right to vote. LAW: "In order to register to vote, everyone has to first stand on one leg and sing the battle hymm of the republic to prove their patriotism." So that infringes the right to vote.^[and, if you actually read the lyrics, it also raises, to say the least, really serious Establishment Clause issues, since it's all "we're fighting for Jesus here folks, JESUS," oh, yeah, and the compelled speech doctrine of the other bit of the First Amendment too, but anyway...] In view of its infringement of the right to vote alone, the law gets strict scrutiny, and, in this case, obviously gets struck down if not actually laughed out of court.
+
+**Discovering new unenumerated fundamental rights**
+
+How does the court decide what's a fundamental right? Suppose you want to convince them to declare a new fundamental right? Well, there isn't a formula, but the key ideas are tradition and importance. 
+
+First, tradition. If something has long been understood as a fundamental right associated with our constitutional tradition, then the Court might understand it as, in essence, a pre-constitutional right, as something that was presupposed by the constitution--in a bit, I'll talk about the 9th amendment, which is important in this vein.
+
+Second, importance. If it looks like the right is sort of basic to living as a person in our society, to functioning as a social (and potentially also economic, but hold on for a bit and we'll talk about that too) actor, to enjoy the other rights, to participate as a democratic citizen, then the Court might understand it as a fundamental right too. Another word for this might be "centrality": if it looks like upholding the right is closely interconnected with people's practical ability to exercise other rights, or built into a dense network of laws, this can weigh in favor of it counting as a fundamental right.
+
+Sometimes the existing consensus of the states or more-or-less-relative consensus of the states is taken into account too, particularly in conjunction with development of the law over time: if 49 of 50 states have moved to protect some right, there's some chance that a lawyer will be able to convince the Court to impose it on the 50th as a fundamental right.
+
+Unsurprisingly, however, it's very rare that the Court discovers a new fundamental right, partly because of separation of powers concerns and federalism concerns: to find a fundamental right is, in essence, to take an area of policy away from the states and Congress and hand it over to judges; the Court is naturally quite suspicious of that move.
+
+The most important and full recent discussion of the method for deciding on fundamental rights is *Washington v. Glucksberg*, which we are reading.
+
+**Fundamental Rights and Incorporation**
+
+As you saw when you read the incorporation material, "fundamental rights" is also used as a term for the set of rights that the Court is willing to incorporate against the states via the Due Process Clause. The relationship between those two invocations of the term isn't totally clear: we typically say (though maybe we shouldn't) that the enumerated rights are "fundamental" and hence get strict scrutiny, but not all the enumerated rights are "fundamental" for incorporation purposes; in particular, there are several jury-related rights in the bill of rights that have not been held by the Supreme Court to apply to the states.  But don't confuse these two uses of the terms "fundamental rights." Maybe they mean the same thing, maybe they don't. As you've seen, some arguments for incoporation essentially want to reduce all incorporated rights to the same thing as unenumerated fundamental rights, i.e., we don't enforce the 1st Amendment against the states via incorporation, we simply enforce an unenumerated 14th Amendment fundamental right of free speech, which happens to largely (but not necessarily entirely) coincide with the stuff written down in the 1st Amendment as applied to the federal government. Of course, the Court in McDonald quite explicitly rejected this theory.
+
+**Is there a textual justification for this stuff?**
+
+We know where we get the enumerated rights from: they're enumerated. No unreasonable searches, no laws infringing free speech, all that good stuff. But what about the rest, the privacy and the interstate travel and all that stuff?
+
+The conventional claim is that there exists a thing called "substantive due process."  Remember that "procedural due process," which we started with, is all about figuring out whether the government followed fair procedures, "substantive due process" is about protecting unenumerated fundamental rights. But they both come from the due process clause. 
+
+Here's a quick capsule summary of some of the history of this stuff, which we'll be talking about more over the next few weeks. According to conventional wisdom, in the Bad Old Lochner Days (TM), the Supreme Court struck down most of the New Deal on a fundamental rights theory, talking about stuff like liberty of contract. The world almost ended, but then FDR managed to bully them into submission. Now "substantive due process" is a dirty word, and the court recognizes that it can't just make up rights to keep the legislature from doing public policy, except when it does. So basically, no economic fundamental rights, and now we're really skeptical of making up rights in general, but there are still these two big groups of fundamental unenumerated rights, the privacy cluster and the democratic citizenship cluster that I wrote about above.
+
+Ok, fine, whatever. But the court's still making them up, you might think. Is there any textual basis for this? Well, those of you who have actually read the constitution (Go do it now, if you haven't already. It will only take a few minutes. Seriously, I mean it. You need to have a command over the text.) will probably think of that 9th amendment. After all, the 9th amendment is all over the unenumerated rights thing. *The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.* It's the actual bit of the constitution where the framers were, like, "dudes, these ain't the only rights." 
+
+But nope, we don't get that. We get "substantive due process." The Court keeps insisting that unenumerated rights come from the due process clause rather than the 9th Amendment.
+
+Now, here's what you might think about those three words, "substantive due process": they're blatantly stupid. One of the key binary oppositions through which we understand the law is "substance" vs. "process." The rules of civil procedure are process. The rules of tort are substance. The Erie doctrine (remember that?) says that in federal court you do federal procedure and state substance. "Substantive due process" is a blatant use of words for precisely the opposite of what they mean.
+
+There are people who defend this stuff. But it's a hard fight. And the general consensus still is, I think, that "substantive due process" is a made-up idea.
+
+Nonetheless, "substantive due process" is what the Court has given us. And typically, fundamental rights cases revolving around the unenumerated rights unhelpfully elaborate to say that the right in question is part of the "liberty" protected by the 5th and 14th amendments---which, you'll note, is totally meaningless, since the part that fundamental rights skeptics object to is the "due process" part, not the "liberty" part, i.e., to the proposition that, granting the fundamental right in question belongs in the liberty bucket, the due process clause means anything other than "notice and an opportunity to be heard for individual deprivations, the democratic process for collective deprivations," you know, like we learned in the beginning of the course. 
+
+So we all have to pretend like we're talking about due process when we do fundamental rights jurisprudence, because those are the words the Supreme Court has told us we have to say, even if they don't make any sense. Legal formalism, thy name is substantive due process.
+
+
+### Note on Levels of Scrutiny
+
+You probably remember the notion of levels of scrutiny from your original Constitutional Law class. But, just in case you're a little rusty, here's a refresher and a little bit of theory.
+
+One useful way to think of a level of scrutiny is a way of expressing an overall balancing test, where what we're balancing is the importance of what the government is trying to achieve by the alleged rights violation or classification (hereafter "government action") and necessity of the government action to the government's ends against the perniciousness of the kind of government action under consideration. Then the choice between the three levels of scrutiny, strict scrutiny, intermediate scrutiny, or rational basis scrutiny, is the doctrinal way of capturing the individual interest and perniciousness of the kind of government action. Race discrimination is really dangerous and nasty, so we're going to apply strict scrutiny to it; violating a fundamental right like the right to vote, ditto. Regulating commercial speech (i.e., advertisement) under the 1st Amendment is probably less dangerous and nasty than regulating speech for its political content, so it only gets intermediate scrutiny, and so forth.
+
+**Strict Scrutiny** is what the Court applies to fundamental rights violations (at least formally, in name---in practice it often applies something else) and suspect classifications under the Equal Protection Clause. 
+
+When we apply strict scrutiny, we have to ask two questions. First, what's the government interest at stake? To satisfy strict scrutiny, it has to be "compelling." 
+
+How do we know what's a compelling interest? Well, there are some obvious ones --- national security, for example. But beyond that, a compelling interest is kind of what five justices think is a compelling interest---we'll think about this at quite some depth. One important subtlety is that the government doesn't get to make up a compelling interest after the fact: there has to be some reason to think that the compelling interest or interests that justify the classification were actually behind the classification in the first place.
+
+Second, is the government action "narrowly tailored" to achieve that compelling interest? Sometimes narrow tailoring is also described as "the least restrictive means," but the two formulations basically mean the same thing: the government action has to be a very close match to the compelling interest. That has two implications: first, the government can't engage in any more rights-impinging or classification than is necessary to serve the compelling interest. If there's a way to achieve the compelling interest without impinging on the given fundamental right or using the suspect classification, or with less impinging on rights or classification, then the government has to take it. Second, the government action has to actually serve the compelling interest. In other words, it has to be effective.
+
+Importantly, the burden is on the government to show all of this. So typically, strict scrutiny means its very probable that the government will lose.
+
+Strict scrutiny applies, as I have said, at least formally to all "fundamental rights," as well as to "suspect classifications" under Equal Protection (which we'll consider down the road---it's mostly race).
+
+**Intermediate Scrutiny**
+
+Like strict scrutiny, the burden of proof is on the government, and like strict scrutiny, you can't use after-the-fact invented justifications.
+
+The big difference, however, is in the actual level of scrutiny applied. Where for strict scrutiny, the government needs a **compelling** interest, in intermediate scrutiny the government merely needs an **important** interest. And where for strict scrutiny, the government action has to be **narrowly tailored** to the interest, in intermediate scrutiny the government action must only be **substantially related** to the interest.
+
+What does that mean in practice? Well, the difference between important interests and compelling interests isn't particularly clear. Every compelling interest presumably is also an important interest, but not every important interest need be a compelling one. But we can't just list things that important interests but not compelling interests. 
+
+For the most part, intermediate scrutiny comes up when we get to sex/gender discrimination under the Equal Protection Clause. It also applies to some First Amendment issues which are beyond the scope of this course. 
+
+**Rational Basis**
+
+
+As we know by now, rational basis is the default rule for if we don't have some other standard of review that applies. And rational basis is *extremely deferential*. The court will uphold a government action under rational basis if it's **rationally related** to a **legitimate** government interest.
+
+Rational basis is easy. Basically, the government almost always wins. First, the government merely needs a "legitimate" interest, which can be something like administrative convenience or saving a little bit of money.  
+
+Moreover, the burden of proof and treatment of after-acquired (cooked up for litigation) reasons shifts when we get to rational basis. As you know, with both strict scrutiny and intermediate scrutiny, the government has the burden of showing its challenged conduct meets the given interest, and it cannot rely on interests cooked up after the fact for the purposes of litigation; rather, the interests it appeals to have to be the interests that were actually under consideration (in some meaningful sense, given the well-known problems of aggregated legislative motivations and such) when the legislation was enacted (or policy was chosen, executive action was decided upon, etc.).
+
+Both of those flip with rational basis. Now the party challenging the law has to prove that the government's action isn't rationally related to a legitimate interest, and this can include any interest that can justify the action, regardless of whether it had anything to do with why the government action was enacted in the first place.
+
+So how can the government lose a rational basis case? Well, for the most part, it has to be either acting totally arbitrarily or irrationally,^[See, e.g., the claim at issue in *Village of Willowbrook v. Olech* where a city, allegedly for no reason, demanded a water line easement on plaintiff's property twice as large as everyone else's.] or, arguably, it has to get into a "rational basis with bite" situation, which we'll see with the gay rights cases, where arguably the court accused the government of a kind of animus toward gay people. 
+
+Rational basis is the default rule, in the post-Lochner era, for rights claims that are not classified as fundamental.
+
+**Is strict scrutiny really what we get for fundamental rights?**
+
+Remember how I said that you get strict scrutiny when the government infringes a fundamental right? Well, that's not true. Actually, strict scrutiny is kind of the default invocation, but lots of the time the Court applies lots of different tests. An easy example is in the First Amendment---depending on the kind of speech and the kind of restriction, you might get intermediate scrutiny, or strict scrutiny, or all kinds of other weird stuff. And that's so even though we say that the speech rights enumerated in the First Amendment are fundamental rights within the meaning of this area of jurisprudence. Same goes for abortion: Roe v. Wade articulated a complex test that was kind of derived from strict scrutiny (sorta---we'll talk about it), but then that got changed in Planned Parenthood v. Casey to an "undue burden" test that has nothing visible to do with strict scrutiny.
+
+So, again, we recite this formulation, and we test it (and I'm going to test it), "fundamental rights get strict scrutiny," but you really should only understand it as a rough rule of thumb, and be aware that within fundamental rights jurisprudence is a lot more complicated, and there are lots of little sub-doctrines which we'll explore. The unenumerated fundamental rights are more consistently strict scrutiny than the enumerated fundamental rights, but even there, there's a lot of wiggle. I want to recommend a very good article on this subject (and it's only a dozen pages long): Adam Winkler, Fundamentally Wrong about Fundamental Rights, 23 Constitutional Commentary 277 (2006) describes lots of places where we don't actually do strict scrutiny with fundamental rights. You really ought to read it.^[And by the way, about things you'll be tested on: you'll be expected to both know the "fundamental rights get strict scrutiny" formulation, and to know the numerous exceptions which we'll cover in class.]
+
+Thinking about the First Amendment helps us see the absurdity of the notion of fundamental rights equals strict scrutiny. Let Justice Black be our guide: possibly his most famous quote comes from his concurrence in Smith v. California, 361 U.S. 147 (1959):
+
+> Certainly the First Amendment's language leaves no room for inference that abridgments of speech and press can be made just because they are slight. That Amendment provides, in simple words, that "Congress shall make no law . . . abridging the freedom of speech, or of the press." I read "no law . . . abridging" to mean no law abridging. The First Amendment, which is the supreme law of the land, has thus fixed its own value on freedom of speech and press by putting these freedoms wholly "beyond the reach" of federal power to abridge. No other provision of the Constitution purports to dilute the scope of these unequivocal commands of the First Amendment. Consequently, I do not believe that any federal agencies, including Congress and this Court, have power or authority to subordinate speech and press to what they think are "more important interests." The contrary notion is, in my judgment, court-made not Constitution-made.
+
+Here's the thing. From a pure textual standpoint, isn't Justice Black actually exactly right? "No law" isn't exactly ambiguous! Even strict scrutiny seems like a weird idea in the context of things like the enumerated rights: the Constitution doesn't say "Congress shall make no law ... abridging the freedom of speech unless it's narrowly tailored to a compelling government interest." Nor, for that matter, does it say "Nor shall any state ... deny to any person within its jurisdiction the equal protection of the laws unless it's narrowly tailored to a compelling government interest."
+
+When we think of that logic, which clearly poses serious problems for the application of any level of scrutiny to the enumerated rights (except for stuff like the 4th and 8th amendments which actually write ideas like "unreasonable" and "cruel and unusual" into the text), we might also want to worry that the same problem shows up for the unenumerated rights. If there really is a pre-constitutional right to something, then on what basis does Congress or a state legislature deprive an individual of it? What kind of right is it, ultimately, that can be infringed if the government has a really good reason, and why should the standard for really good reason even formally be the same in all these cases (albeit not necessarily actually)? Certainly the idea of due process, even if it includes enforcing unenumerated rights, doesn't also include some kind of strict scrutiny test. So there's a deeply unprincipled analytic strategy at the heart of this whole body of law. But it's what we got.
 
 ### Lochner v. New York
 
@@ -5864,6 +6133,27 @@ The suggestion of petitioners and their amici that antimiscegenation laws are ak
 
 # Congress's Enforcement Power
 
+## Note on Enforcement Powers
+
+The notion of Congressional power to enforce the Reconstruction Amendments immediately raises a number of mixed federalism/separation of powers questions: 
+
+1.  Enforce against whom?  We typically think that those rights only grant individuals rights *against the government* (e.g., the government can't do race discrimination); but can Congress also make laws prohibiting private citizens from doing things like race discrimination?  (Recall that Congress certainly can do so under the commerce power, at least in economic life, but can it also do so under the 13th, 14th amendments?)
+
+2.  Who gets to decide the content of the rights?  Marbury v. Madison suggests that the Supreme Court gets to decide what individual rights are under these amendments, but does Congress's enforcement power mean that Congress gets to say, for example, "We know the Supreme Court said that act X doesn't violate individual rights under the 14th amendment, but we think it does, so states shall not do it."
+
+So the Congressional enforcement power could mean anything on a spectrum from a maximalist "Congress gets to define these individual rights violations and hold individuals responsible as well as the state," to a minimalist "Congress just gets to provide for some penalties for when states violate them."  
+
+Ultimately, what we get out of the caselaw is something in between: 
+
+- Congress can't reach private action under the 14th and 15th amendments, but it *can* reach private action under the 13th amendment, to prohibit the "badges and incidents of slavery," and can also do things like create causes of action against people who use the state's power (police officers who violate rights, for example).
+
+- Congress cannot expand the scope of constitutional rights against the state, by forbidding things the Supreme Court has said is ok under the 14th amendment. 
+
+- Congress can implement what we might call "remedial" rules, that is, rules that don't directly prohibit what the constitution already prohibits, but do help effectuate that prohibition. (Think of the exclusionary rule in the criminal procedure context.)
+
+In addition to the cases in this section, see especially Jones v. Alfred H. Mayer Co., which held that Congress has authority to prohibit the "badges and incidents of slavery" under the 13th Amendment, including the power to regulate private discrimination. Congress also has, of course, broad Commerce Clause powers to regulate economic activity, and a number of civil rights laws have been upheld on that basis.  The Voting Rights Act has been upheld and then partially struck down under Congress's enforcement power under the 15th Amendment. See Shelby County v. Holder.
+
+
 ### City of Boerne v. Flores
 
 **Justice Kennedy delivered the opinion of the Court.** A decision by local zoning authorities to deny a church a building permit was challenged under the Religious Freedom Restoration Act of 1993 (RFRA or Act), 107 Stat. 1488, 42 U. S. C. § 2000bb et seq. The case calls into question the authority of Congress to enact RFRA. We conclude the statute exceeds Congress' power.
@@ -5962,6 +6252,4 @@ In the present cases, for example, §13981 visits no consequence whatever on any
 
 Section 13981 is also different from these previously upheld remedies in that it applies uniformly throughout the Nation. Congress' findings indicate that the problem of discrimination against the victims of gender-motivated crimes does not exist in all States, or even most States. By contrast, the §5 remedy upheld in Katzenbach v. Morganwas directed only to the State where the evil found by Congress existed, and in South Carolina v. Katzenbach the remedy was directed only to those States in which Congress found that there had been discrimination.
 
-### Note on other sources of Congressional authority to prohibit discrimination 
 
-Jones v. Alfred H. Mayer Co. held that Congress has authority to prohibit the "badges and incidents of slavery" under the 13th Amendment, including the power to regulate private discrimination. Congress also has, of course, broad Commerce Clause powers to regulate economic activity, and a number of civil rights laws have been upheld on that basis.  The Voting Rights Act has been upheld and then partially struck down under Congress's enforcement power under the 15th Amendment. See Shelby County v. Holder
