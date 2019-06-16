@@ -23,6 +23,39 @@ As a result, there are undoubtedly a number of partial citations, floating numbe
 This casebook is entirely composed of U.S. Supreme Court cases (which are not subject to copyright), plus materials written by me are (c) [Paul Gowder](https://gowder.io), 2017-2019 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). 
 
 
+\newpage
+
+# Text of the Reconstruction Amendments
+
+\newpage
+
+### Thirteenth Amendment
+
+1.  Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+
+2.  Congress shall have power to enforce this article by appropriate legislation.
+
+\newpage
+
+### Fourteenth Amendment
+
+1.  All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+2.  Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+
+3.  No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
+
+4.  The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
+
+5.  The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
+
+\newpage
+
+### Fifteenth Amendment
+
+1.  The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+2.  The Congress shall have power to enforce this article by appropriate legislation.
 
 \newpage
 
@@ -34,9 +67,11 @@ This casebook is entirely composed of U.S. Supreme Court cases (which are not su
 
 ### Introductory Note on Procedural Due Process
 
-We begin with the most fundamental doctrine in all of American law: procedural due process.
+We begin with the most fundamental doctrine in all of American law: Procedural Due Process. Procedural Due Process describes the difference between government power under law and government power not under law. Every government in the world that can fairly be said to be ruled under law must have some kind of doctrine that works something like procedural due process.
 
-Why do I say that procedural due process is so fundamental? The answer is that it describes the difference between government power under law and government power not under law. Every government in the world that can fairly be said to be ruled under law must have some kind of doctrine that works something like procedural due process.
+Our idea of Procedural Due Process is a direct descendant of the protections imposed on the English Crown by Magna Carta, in relevant part: 
+
+> NO Freeman shall be taken or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed; nor will We not pass upon him, nor [condemn him, but by lawful judgment of his Peers, or by the Law of the Land. We will sell to no man, we will not deny or defer to any man either Justice or Right.
 
 To see why, let's look at the relevant part of the Fifth Amendment (the Fourteenth is only different in that it refers to states as the deprivers).
 
@@ -86,9 +121,9 @@ So what do we get out of this? Number one, a property interest is created by som
 
 Number two, it has to be important. You don't get due process if your state employer says that you have to take your lunch break at 12:30 instead of noon. 
 
-Number three, it kind of has to look like an entitlement, the kind of thing that you can justifiably rely on being provided under the substantive law in question. And you can usually tell that this is the case more or less by the extent to which the law conditions eligibility for the entitlement on specific facts or rules and operates more or less mechanically rather than by some kind of discretionary policy decision.
+Number three, it kind of has to look like an entitlement, the kind of thing that you can justifiably rely on being provided under the substantive law in question.^[Thus, the key difference between the professor in Board of Regents v. Roth and the security guard in Loudermill is that the professor was on a year-to-year contract which made clear that there wasn't a right of renewal, while the security guard was in a protected civil service provision which was only terminable, under state law, for cause.] And you can usually tell that this is the case more or less by the extent to which the law conditions eligibility for the entitlement on specific facts or rules and operates more or less mechanically rather than by some kind of discretionary policy decision. (Another way to think about this is as the difference between a vested right and a mere expectancy.)
 
-And this is important: once an interest is created by state law, the procedures provided in state law do not control the process that is due. What controls is the constitution, which judges whether or not the procedures provided for by the state are sufficient. 
+And this is important: once an interest is created by state law, the procedures provided in state law do not control the process that is due. What controls is the constitution, which judges whether or not the procedures provided for by the state are sufficient.^[Early on, the government often tried a defense that became known as "the bitter with the sweet" The idea there was that the procedures the state provided were not separable from the property interest it created, so if someone wanted to accept, e.g., the welfare benefits, they must also accept the state-provided procedure that accompanied them. The Court rejected this argument.] 
 
 **Property interests: summarized:**
 
