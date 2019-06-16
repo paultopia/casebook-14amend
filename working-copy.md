@@ -73,9 +73,11 @@ Our idea of Procedural Due Process is a direct descendant of the protections imp
 
 > NO Freeman shall be taken or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed; nor will We not pass upon him, nor [condemn him, but by lawful judgment of his Peers, or by the Law of the Land. We will sell to no man, we will not deny or defer to any man either Justice or Right.
 
-To see why, let's look at the relevant part of the Fifth Amendment (the Fourteenth is only different in that it refers to states as the deprivers).
+Our Fifth and Fourteenth Amendments are briefer:
 
-> “No person shall be… deprived of life, liberty, or property, without due process of law.[]” 
+> “No person shall be… deprived of life, liberty, or property, without due process of law[.]” 
+
+> [N]or shall any State deprive any person of life, liberty, or property, without due process of law[.]
 
 This is about as straightforward a legal rule as you can get.  You can't be shot, locked up, or have your stuff taken without due process. Of course, there is no such thing as a straightforward legal rule, so there are many questions we might want to ask about this. Consider the following.
 
@@ -95,7 +97,7 @@ But the last three on this list are less than clear. Let's talk about them.
 
 **What interests?**
 
-First, what interests are protected? The Constitution says "life, liberty, and property." We kind of know what life and liberty are. But property? We think we know what that means. You took a class in 1L year, you got the notions of real property, and bundles of rights, and chattel---these are the kinds of things that make up property.
+First, what interests are protected? The Constitution says "life, liberty, or property." We kind of know what life and liberty are. But property? We think we know what that means. You took a class in 1L year, you got the notions of real property, and bundles of rights, and chattel---these are the kinds of things that make up property.
 
 But what about stuff that the government has promised to give you in the future? Well, in Goldberg v. Kelly, the Court held that this can be a property right too. The idea is that the recipient has a statutory entitlement to the benefits. And there were determinate statutory standards for who was entitled to receive the benefits. So it looks a lot like a property right---a legal rule saying that persons who meet the following conditions X Y and Z are entitled to get A B and C.
 
@@ -129,7 +131,7 @@ And this is important: once an interest is created by state law, the procedures 
 
 1. Created by state law 
 
-2. But once found, state law procedures do not control, how much process is due, constitution does. This is important. 
+2. But once found, state law procedures do not control, how much process is due, constitution does. 
 
 3. Must be an important interest. 
 
@@ -161,23 +163,23 @@ By contrast, here's all the court said about the process to be provided to the f
 
 However, the court also made clear that the reason so little process was provided pre-termination was because the employee was also provided with a full hearing after the fact, that is, he could get his job restored ex post. This question of pre-termination vs post-termination process is often the key issue in procedural due process cases.
 
-In Matthews v. Eldridge, which we are reading, the Court laid out a three-part balancing test that has been applied ever since. In application, it's honestly pretty ad hoc---it doesn't actually give courts lots of guidance (and as a result, in actual practice, you will have to look for cases similar to yours). But you still have to give lip service to it, and it tracks a kind of intuitive notion of fair process.
+There should be an intuitive reason for this difference. Losing your job is bad. But if you get sent to prison, not only do you lose your job, but you also get locked in a cage for years. It's a much worse deprivation, and so obviously, the government ought to have to jump through more hoops in order to inflict it on you---just so long as those extra hoops are effective in keeping the government from erroneously convicting someone.  (The point of additional procedural protections is always to improve the accuracy of the decision.)
+
+In Matthews v. Eldridge the Court laid out the canonical three-part balancing test that captures the intuition just described.  The test has been criticized for being so abstract that it doesn't really give courts lots of guidance, but, in its defense, it at least forces courts and litigants to make arguments in sensible terms. 
 
 The three parts are:
 
-First, the weight of the private interest at stake. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
+1.  The weight of the private interest at stake. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
 
-Second is the risk of erroneous deprivation. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
+2. The risk of erroneous deprivation. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
 
-Third is the government's interest in avoiding additional process. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
+3.  The government's interest in avoiding additional process. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
 
 **What counts as a deprivation?**
 
 Doesn't everything the government does deprive someone of something? After all, when they pass a law that says "no driving over sixty-five," that deprives me of the liberty to go really fast. When they impose income taxes, they deprive all of us of property. When the city demands that homeowners get a permit before building a shed on their land, it arguably deprives homeowners of both liberty and property. Does everyone get a hearing in all of these cases?
 
-Well, one case suggests maybe yes. In Londoner v. City and County of Denver the Court held that there had to be a hearing before imposing special assessments on landowners to pay for paving the road adjacent to their land.
-
-So how come I don't get a hearing before the IRS makes the University take a third of my salary out of my paycheck every month? Think about this question.
+So how come I don't get a hearing before the IRS makes the University take a third of my salary out of my paycheck every month? Think about this question. We will see that the key reason revolves around the difference between individualized action and a general law, applicable to the whole community. And we will also see that this distinction tracks a more basic difference between legislation and judicial/executive action.
 
 **An algorithm for PDP problems**
 
