@@ -67,11 +67,11 @@ This casebook is entirely composed of U.S. Supreme Court cases (which are not su
 
 ### Introductory Note on Procedural Due Process
 
-We begin with the most fundamental doctrine in all of American law: Procedural Due Process. Procedural Due Process describes the difference between government power under law and government power not under law. Every government in the world that can fairly be said to be ruled under law must have some kind of doctrine that works something like procedural due process.
+We begin with the most fundamental doctrine in all of American law: Procedural Due Process. Every government ruled under law has something like a doctrine of Procedural Due Process, because that's the rule that requires that when the government uses its awesome power against someone, it does so only via the operation of law (as opposed to the arbitrary will of the powerful).
 
 Our idea of Procedural Due Process is a direct descendant of the protections imposed on the English Crown by Magna Carta, in relevant part: 
 
-> NO Freeman shall be taken or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed; nor will We not pass upon him, nor [condemn him, but by lawful judgment of his Peers, or by the Law of the Land. We will sell to no man, we will not deny or defer to any man either Justice or Right.
+> NO Freeman shall be taken or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed; nor will We not pass upon him, nor condemn him, but by lawful judgment of his Peers, or by the Law of the Land. We will sell to no man, we will not deny or defer to any man either Justice or Right.
 
 Our Fifth and Fourteenth Amendments are briefer:
 
@@ -91,7 +91,7 @@ This is about as straightforward a legal rule as you can get.  You can't be shot
 
 - What constitutes due process of law?
 
-The answers to a number of these questions are pretty straightforward. For the most part, a person is a legal person: corporations yes, cats no. (My cat excepted.) Likewise, it's pretty clear that this stuff just applies to the government: to the feds through the fifth amendment and through the states through the fourteenth, although we might argue whether the passive voice construction should have meant that it applied to the states from the get-go, or even whether it obligates the government to regulate private violence.
+The answers to a number of these questions are pretty straightforward. For the most part, a person is a legal person: corporations yes, cats no. (My cat excepted.) Likewise, it's pretty clear that this stuff just applies to the government: to the feds through the Fifth amendment and through the states through the Fourteenth, although we might argue whether the passive voice construction should have meant that it applied to the states from the get-go, or even whether it obligates the government to regulate private violence.
 
 But the last three on this list are less than clear. Let's talk about them.
 
@@ -109,9 +109,9 @@ What if the professor writes it in the syllabus? “everyone who shows up to eve
 
 What if it’s part of official university policy? 
 
-What if the professor makes it into a contract? It looks like it’s supported by consideration... She wants you to show up to class, you want a passing grade...
+What if the professor makes it into a contract? It looks like it’s supported by consideration... She wants you to show up to class, you want a passing grade... (Are contract rights against the government and Procedural Due Process rights complements or substitutes?)
 
-If not in your grades, what about your status as a student? If the professor accuses you of cheating on an exam, does she have to give you some kind of process before trying to expel you? Does it depend on the content of a written policy from the university?
+If you don't have a property interest in your grades, what about in your status as a student? If the professor accuses you of cheating on an exam, does she have to give you some kind of process before trying to expel you? Does it depend on the content of a written policy from the university?
 
 Board of Regents v. Roth, 408 U.S. 564 (1972), gives some insight on these questions. In that case, the Court held that a state university professor could have a property interest in his job, although he didn't have one in that case. And then later, in Cleveland Board of Education v. Loudermill, 470 U.S. 532 (1985), the Court found one in the job of a school security guard.
 
@@ -125,17 +125,17 @@ Number two, it has to be important. You don't get due process if your state empl
 
 Number three, it kind of has to look like an entitlement, the kind of thing that you can justifiably rely on being provided under the substantive law in question.^[Thus, the key difference between the professor in Board of Regents v. Roth and the security guard in Loudermill is that the professor was on a year-to-year contract which made clear that there wasn't a right of renewal, while the security guard was in a protected civil service provision which was only terminable, under state law, for cause.] And you can usually tell that this is the case more or less by the extent to which the law conditions eligibility for the entitlement on specific facts or rules and operates more or less mechanically rather than by some kind of discretionary policy decision. (Another way to think about this is as the difference between a vested right and a mere expectancy.)
 
-And this is important: once an interest is created by state law, the procedures provided in state law do not control the process that is due. What controls is the constitution, which judges whether or not the procedures provided for by the state are sufficient.^[Early on, the government often tried a defense that became known as "the bitter with the sweet" The idea there was that the procedures the state provided were not separable from the property interest it created, so if someone wanted to accept, e.g., the welfare benefits, they must also accept the state-provided procedure that accompanied them. The Court rejected this argument.] 
+And this is important: once an interest is created by state law, the procedures provided in state law do not control the process that is due. What controls is the constitution, which establishes whether or not the procedures provided for by the state are sufficient.^[Early on, the government often tried a defense that became known as "the bitter with the sweet." The idea there was that the procedures the state provided were not separable from the property interest it created, so if someone wanted to accept, e.g., the welfare benefits, they must also accept the state-provided procedure that accompanied them. The Court rejected the "bitter with the sweet" defense.] 
 
 **Property interests: summarized:**
 
-1. Created by state law 
+1. Created by state law.
 
 2. But once found, state law procedures do not control, how much process is due, constitution does. 
 
 3. Must be an important interest. 
 
-3. Must be an "entitlement” --- and we look for a justifiable reliance/expectation, and a test for eligibility that relies on specific fact-finding rather than open-ended policy decision. 
+4. Must be an "entitlement” --- and we look for a justifiable reliance/expectation, and a test for eligibility that relies on specific fact-finding rather than open-ended policy decision. 
 
 **How much process is "due?"**
 
@@ -157,7 +157,7 @@ There are lots of different kinds of legal process someone could get before the 
 
 In the criminal law, we have a full adversary process with extensive procedural protections for the defendant, and it has to happen before the defendant is deprived of liberty for an extended period of time---that's what the speedy trial right does, forbids the government from taking away people's liberty to a large degree before a hearing. Criminal defendants get a privilege against self-incrimination, a government provided lawyer, a right to confrontation, all kinds of things like that.
 
-By contrast, here's all the court said about the process to be provided to the fired government employee before the firing, in Cleveland Board of Education v. Loudermill, 470 US 532 (1985):
+By contrast, here's all the court said about the process to be provided to a fired government employee before firing in Cleveland Board of Education v. Loudermill, 470 US 532 (1985):
 
 > The essential requirements of due process, and all that respondents seek or the Court of Appeals required, are notice and an opportunity to respond. The opportunity to present reasons, either in person or in writing, why proposed action should not be taken is a fundamental due process requirement. The tenured public employee is entitled to oral or written notice of the charges against him, an explanation of the employer's evidence, and an opportunity to present his side of the story. To require more than this prior to termination would intrude to an unwarranted extent on the government's interest in quickly removing an unsatisfactory employee.
 
@@ -165,13 +165,13 @@ However, the court also made clear that the reason so little process was provide
 
 There should be an intuitive reason for this difference. Losing your job is bad. But if you get sent to prison, not only do you lose your job, but you also get locked in a cage for years. It's a much worse deprivation, and so obviously, the government ought to have to jump through more hoops in order to inflict it on you---just so long as those extra hoops are effective in keeping the government from erroneously convicting someone.  (The point of additional procedural protections is always to improve the accuracy of the decision.)
 
-In Matthews v. Eldridge the Court laid out the canonical three-part balancing test that captures the intuition just described.  The test has been criticized for being so abstract that it doesn't really give courts lots of guidance, but, in its defense, it at least forces courts and litigants to make arguments in sensible terms. 
+In *Matthews v. Eldridge* the Court laid out the canonical three-part balancing test that captures the intuition just described.  The test has been criticized for being so abstract that it doesn't really give courts lots of guidance, but, in its defense, it at least forces courts and litigants to make arguments in sensible terms. 
 
 The three parts are:
 
-1.  The weight of the private interest at stake. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. So there's much more reason to have pre-termination process in the hearing in the former case than the latter.
+1.  The weight of the private interest at stake. A person who is deprived of welfare benefits could end up sleeping on the street or struggling to get food---this is a very significant interest, and there probably ought to be more process before the state deprives someone of that property interest. By contrast, we might imagine, say, if the state seizes your luggage at the airport there's a much smaller private interest at stake. It just doesn't matter so much if the government unjustly seizes your luggage (the airline was probably going to lose it anyway). 
 
-2. The risk of erroneous deprivation. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that procedural due process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
+2. The risk of erroneous deprivation. This is a factor that makes the most sense when it's judged against the existing process that the state has provided---remember that Procedural Due Process cases come up when someone challenges an existing procedure. And it can be broken down into two sub-factors. There's the reliability of existing procedures---are they fair? Do they do a pretty good job of getting the right answer? And then there's the marginal benefit of additional procedures---is there something that the government could do which would make the process much more reliable or fair?
 
 3.  The government's interest in avoiding additional process. Sometimes the government interest will be purely administrative: extra process costs money and creates an administrative burden, the government has a legitimate interest in keeping its budget down and its bureaucracy as un-cumbersome as possible. However, sometimes the government will also have additional interests in avoiding process. If, for example, there's a military or law enforcement emergency, sometimes the government has a reason to act quickly, and the government has a strong interest in avoiding the delay that would be incurred if it had to provide pre-termination process.
 
@@ -179,7 +179,7 @@ The three parts are:
 
 Doesn't everything the government does deprive someone of something? After all, when they pass a law that says "no driving over sixty-five," that deprives me of the liberty to go really fast. When they impose income taxes, they deprive all of us of property. When the city demands that homeowners get a permit before building a shed on their land, it arguably deprives homeowners of both liberty and property. Does everyone get a hearing in all of these cases?
 
-So how come I don't get a hearing before the IRS makes the University take a third of my salary out of my paycheck every month? Think about this question. We will see that the key reason revolves around the difference between individualized action and a general law, applicable to the whole community. And we will also see that this distinction tracks a more basic difference between legislation and judicial/executive action.
+A good example to ponder in order to work through this question is: how come I don't get a hearing before the IRS makes the University take a third of my salary out of my paycheck every month? We will see that the key reason revolves around the difference between individualized action and a general law, applicable to the whole community. And we will also see that this distinction tracks a more basic difference between legislation and judicial/executive action.
 
 **An algorithm for PDP problems**
 
