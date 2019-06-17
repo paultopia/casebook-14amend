@@ -46,4 +46,4 @@ for line in lines:
 #with open("saenz2.md", "w") as saenzout:
 #    lines = saenzin.readlines()
 
-# THIS DOESN'T WORK RIGHT because the wordlist is too short.  It misses words like "constitution."
+# THIS DOESN'T WORK RIGHT because the wordlist is too short.  It misses words like "constitution." and "court"
