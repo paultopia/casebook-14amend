@@ -8,8 +8,8 @@ def fix_lines(linelist):
         if cleanedline.isnumeric():
             paragraphs.append("\n\n")
         else:
-            paragraphs.append(cleanedline + " ")
-            # this is a slight bug, adds line at end of blank lines, hence leading space in paragraphs. 
+            if cleanedline:
+                paragraphs.append(cleanedline + " ")
     text = "".join(paragraphs)
     return text
 
