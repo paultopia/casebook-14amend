@@ -486,7 +486,7 @@ Judgment affirmed.
 # Substantive Due Process
 
 
-
+## Incorporation
 
 \newpage
 
@@ -3235,7 +3235,7 @@ I respectfully dissent.
 
 \newpage
 
-## Substantive Due Process and Incorporation: Are They The Same Thing?
+## Fundamental Rights and Incorporation: Are They The Same Thing?
 
 
 \newpage
