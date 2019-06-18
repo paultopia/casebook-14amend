@@ -1,3 +1,6 @@
+
+\newpage
+
 ### Duncan v. Louisiana  391 U.S. 145 (1968)   
 
 **Mr. Justice WHITE delivered the opinion of the Court.**  
