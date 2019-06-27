@@ -3529,7 +3529,7 @@ District 4: 7,500 Republicans, 12,500 Democrats
 
 District 5: 7,500 Republicans, 12,500 Democrats
 
-The state Republican party, plus an individual Republican voter in each district, file suit to challenge the redistricting under the Equal Protection and Due Process Clauses of the 14th Amendment.
+The state Republican party, plus an individual Republican voter in each district, file suit to challenge the redistricting under the Equal Protection and Due Process Clauses of the 14th Amendment. What is the correct result?  Note: in 2019, in *Rucho v. Common Cause*, the Supreme Court held that partisan gerrymandering is a non-justiciable political question, but let us pretend that this case had not been decided, and consider it on the merits.
 
 Does it depend on the irregularity of the shape of the districts?
 
