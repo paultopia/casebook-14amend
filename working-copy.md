@@ -3533,6 +3533,27 @@ The state Republican party, plus an individual Republican voter in each district
 
 Does it depend on the irregularity of the shape of the districts?
 
+\newpage
+
+### Addendum: Excerpt from Rucho v. Common Cause
+
+**Roberts, C. J., delivered the opinion of the Court, in which Thomas, Alito, Gorsuch, and Kavanaugh, JJ., joined.**
+
+Partisan gerrymandering claims rest on an instinct that groups with a certain level of political support should enjoy a commensurate level of political power and influence. Explicitly or implicitly, a districting map is alleged to be unconstitutional because it makes it too difficult for one party to translate statewide support into seats in the legislature. But such a claim is based on a "norm that does not exist" in our electoral system--"statewide elections for representatives along party lines." 
+
+Partisan gerrymandering claims invariably sound in a desire for proportional representation. The Founders certainly did not think proportional representation was required. For more than 50 years after ratification of the Constitution, many States elected their congressional representatives through at-large or "general ticket" elections. Such States typically sent single-party delegations to Congress. That meant that a party could garner nearly half of the vote statewide and wind up without any seats in the congressional delegation. The Whigs in Alabama suffered that fate in 1840: "their party garnered 43 percent of the statewide vote, yet did not receive a single seat." 
+
+Unable to claim that the Constitution requires proportional representation outright, plaintiffs inevitably ask the courts to make their own political judgment about how much representation particular political parties deserve--based on the votes of their supporters--and to rearrange the challenged districts to achieve that end. But federal courts are not equipped to apportion political power as a matter of fairness, nor is there any basis for concluding that they were authorized to do so. As Justice Scalia put it for the plurality in Vieth: "Fairness’ does not seem to us a judicially manageable standard. . . . Some criterion more solid and more demonstrably met than that seems to us necessary to enable the state legislatures to discern the limits of their districting discretion, to meaningfully constrain the discretion of the courts, and to win public acceptance for the courts’ intrusion into a process that is the very foundation of democratic decisionmaking."
+
+The initial difficulty in settling on a "clear, manageable and politically neutral" test for fairness is that it is not even clear what fairness looks like in this context. There is a large measure of "unfairness" in any winner-take-all system. Fairness may mean a greater number of competitive districts. Such a claim seeks to undo packing and cracking so that supporters of the disadvantaged party have a better shot at electing their preferred candidates. But making as many districts as possible more competitive could be a recipe for disaster for the disadvantaged party. As Justice White has pointed out, "[i]f all or most of the districts are competitive . . . even a narrow statewide preference for either party would produce an overwhelming majority for the winning party in the state legislature." 
+
+On the other hand, perhaps the ultimate objective of a "fairer" share of seats in the congressional delegation is most readily achieved by yielding to the gravitational pull of proportionality and engaging in cracking and packing, to ensure each party its "appropriate" share of "safe" seats. Such an approach, however, comes at the expense of competitive districts and of individuals in districts allocated to the opposing party.
+
+Or perhaps fairness should be measured by adherence to "traditional" districting criteria, such as maintaining political subdivisions, keeping communities of interest together, and protecting incumbents. But protecting incumbents, for example, enshrines a particular partisan distribution. And the "natural political geography" of a State--such as the fact that urban electoral districts are often dominated by one political party--can itself lead to inherently packed districts. As Justice Kennedy has explained, traditional criteria such as compactness and contiguity "cannot promise political neutrality when used as the basis for relief. Instead, it seems, a decision under these standards would unavoidably have significant political effect, whether intended or not." 
+
+Deciding among just these different visions of fairness (you can imagine many others) poses basic questions that are political, not legal. There are no legal standards discernible in the Constitution for making such judgments, let alone limited and precise standards that are clear, manageable, and politically neutral. Any judicial decision on what is "fair" in this context would be an "unmoored determination" of the sort characteristic of a political question beyond the competence of the federal courts. 
+
+And it is only after determining how to define fairness that you can even begin to answer the determinative question: "How much is too much?" At what point does permissible partisanship become unconstitutional? 
 
 
 \newpage
