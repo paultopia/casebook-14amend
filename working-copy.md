@@ -4503,7 +4503,7 @@ The city of Rustacre is a decaying industrial town whose core industries have lo
 
 Accordingly, the residents of the outskirts have petitioned the state legislature to permit them to incorporate as independent municipalities, with their own tax bases and school districts. The legislature has enacted a bill permitting the incorporation.
 
-The leader of a local civil rights group has appeared in your office. According to her organization, the anticipated result of this municipal incorporation would be that the municipalities on the outskirts would have schools that are substantially whiter and substantially better-funded than before; the remainder of the city in the middle would have schools with a substantially greater minority population and, unsurprisingly, those schools would also suffer a substantial decline in resources. Lots of other disparaties would be created too, but her organization is focused on education.
+The leader of a local civil rights group has appeared in your office. According to her organization, the anticipated result of this municipal incorporation would be that the municipalities on the outskirts would have schools that are substantially whiter and substantially better-funded than before; the remainder of the city in the middle would have schools with a substantially greater racial minority population and, unsurprisingly, those schools would also suffer a substantial decline in resources. Lots of other disparaties would be created too, but her organization is focused on education.
 
 Based on the cases we've read thus far, and assuming there's a plaintiff with standing, does her organization have a basis for challenging the municipal incorporation under the Equal Protection Clause?
 
