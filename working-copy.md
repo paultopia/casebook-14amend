@@ -689,7 +689,9 @@ For this reason, I am attaching to this dissent an appendix which contains a ré
 
 \newpage
 
-### Duncan v. Louisiana  391 U.S. 145 (1968)   
+### Duncan v. Louisiana 
+
+391 U.S. 145 (1968)   
 
 **Mr. Justice White delivered the opinion of the Court.**  
 
