@@ -6754,24 +6754,33 @@ The suggestion of petitioners and their amici that antimiscegenation laws are ak
 
 ### Note on Enforcement Powers
 
-The notion of Congressional power to enforce the Reconstruction Amendments immediately raises a number of mixed federalism/separation of powers questions:
+The Congressional power to enforce the Reconstruction Amendments, explicitly granted in all three of those Amendments, immediately raises a number of mixed federalism/separation of powers questions:
 
-1.  Enforce against whom?  We typically think that those rights only grant individuals rights *against the government* (e.g., the government can't do race discrimination); but can Congress also make laws prohibiting private citizens from doing things like race discrimination?  (Recall that Congress certainly can do so under the commerce power, at least in economic life, but can it also do so under the 13th, 14th amendments?)
+1.  Enforce against whom?  We typically think that the Constitution only grants individuals rights *against the government* (e.g., the government can't do race discrimination), so presumably those Amendments give Congress some power to order states arond. But can Congress also make laws prohibiting private citizens from doing things like race discrimination?  (Recall that Congress certainly can do so under the commerce power, at least in economic life, but can it also do so under the 13th, 14th amendments?)
 
-2.  Who gets to decide the content of the rights?  Marbury v. Madison suggests that the Supreme Court gets to decide what individual rights are under these amendments, but does Congress's enforcement power mean that Congress gets to say, for example, "We know the Supreme Court said that act X doesn't violate individual rights under the 14th amendment, but we think it does, so states shall not do it."
+2.  Who gets to decide the content of the rights?  Marbury v. Madison suggests that the Supreme Court gets to decide what individual rights are under these amendments, but does Congress's enforcement power mean that Congress gets to say, for example, "We know the Supreme Court said that act X doesn't violate individual rights under the 14th amendment, but we think it does, so states shall not do it?"
+
+3.  Even if Congress doesn't get to define the substance of rights guaranteed by the Reconstruction Amendments, does Congress get to impose special rules specifying hoops that states must jump through, even though those hoops are not themselves required by the right itself? We might call those hoops "remedial rules," and think, as a quintessential (court-imposed rather than Congress-imposed) example of the 4th Amendment's exclusionary rule. The 4th Amendment doesn't require exclusion to be the remedy for an unconstitutional search, but the Court is of the view that imposing it is necessary to actually make the prohibition on unreasonable searches and seizures stick. Could Congress impose something similar on the states?
 
 So the Congressional enforcement power could mean anything on a spectrum from a maximalist "Congress gets to define these individual rights violations and hold individuals responsible as well as the state," to a minimalist "Congress just gets to provide for some penalties for when states violate them."  
 
 Ultimately, what we get out of the caselaw is something in between:
 
-- Congress can't reach private action under the 14th and 15th amendments, but it *can* reach private action under the 13th amendment, to prohibit the "badges and incidents of slavery," and can also do things like create causes of action against people who use the state's power (police officers who violate rights, for example).
+- Congress can't reach private action under the 14th and 15th amendments, but it *can* reach private action under the 13th amendment, to prohibit the "badges and incidents of slavery," and can also do things like create causes of action against people who use the state's power (police officers who viotate rights, for example).^[Textually and analytically this distinction makes some sense. First of all, textually, if you go back to the text of the 13th Amendment, it, alone among the Reconstruction Amendments, doesn't forbid some kind of government action. It forbids *a state of affairs*:  "Neither slavery nor involuntary servitude... shall exist within the United States[.]" Second, that state of affairs is inherently entangled with private action, as the essence of slavery is the ownership of one person by another. Cf. the classic doctrinal rule that you may have learned in contracts, that the 13th Amendment bars courts from ordering specific performance of personal services contracts.]
 
-- Congress cannot expand the scope of constitutional rights against the state, by forbidding things the Supreme Court has said is ok under the 14th amendment.
+- Congress cannot expand the scope of constitutional rights against the state, by forbidding things the Supreme Court has said are ok.
 
-- Congress can implement what we might call "remedial" rules, that is, rules that don't directly prohibit what the constitution already prohibits, but do help effectuate that prohibition. (Think of the exclusionary rule in the criminal procedure context.)
+- However, Congress can impose remedial rules on the states, subject to the congruence and proportionality principle that we'll explore in City of Bourne v. Flores.
 
-In addition to the cases in this section, see especially Jones v. Alfred H. Mayer Co., which held that Congress has authority to prohibit the "badges and incidents of slavery" under the 13th Amendment, including the power to regulate private discrimination. Congress also has, of course, broad Commerce Clause powers to regulate economic activity, and a number of civil rights laws have been upheld on that basis.  The Voting Rights Act has been upheld and then partially struck down under Congress's enforcement power under the 15th Amendment. See Shelby County v. Holder.
+In addition to the cases in this section, see: 
 
+- Heart of Atlanta Motel, Inc. v. United States, 379 U.S. 241 (1964), which held that Congress has Commerce Clause powers to regulate race discrimination in economic activity. 
+
+- South Carolina v. Katzenbach, 383 U.S. 301 (1966) and Katzenbach v. Morgan, 384 U.S. 641 (1966), upholding the Voting Rights act as an exercise of Congress's enforcement power under, respectively, the 15th and 14th Amendments.
+
+- Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968), which held that Congress has authority to prohibit the "badges and incidents of slavery" under the 13th Amendment, including the power to regulate private discrimination. 
+
+- Shelby County v. Holder, 570 U.S. 529 (2013), which struck down the formula used to subject states to "pre-clearance" obligations under the Voting Rights Act.
 
 
 
