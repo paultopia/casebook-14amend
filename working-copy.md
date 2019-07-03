@@ -6364,7 +6364,7 @@ I am sure these accusations are quite untrue. To be sure (as the majority points
 
 576 U.S. ___ (2015)
 
-**Justice KENNEDY, delivered the opinion of the Court.** The Constitution promises liberty to all within its reach, a liberty that includes certain specific rights that allow persons, within a lawful realm, to define and express their identity. The petitioners in these cases seek to find that liberty by marrying someone of the same sex and having their marriages deemed lawful on the same terms and conditions as marriages between persons of the opposite sex.
+**Justice Kennedy, delivered the opinion of the Court.** The Constitution promises liberty to all within its reach, a liberty that includes certain specific rights that allow persons, within a lawful realm, to define and express their identity. The petitioners in these cases seek to find that liberty by marrying someone of the same sex and having their marriages deemed lawful on the same terms and conditions as marriages between persons of the opposite sex.
 
 These cases come from Michigan, Kentucky, Ohio, and Tennessee, States that define marriage as a union between one man and one woman. See, e.g., Mich. Const., Art. I, §25; Ky. Const. §233A; Ohio Rev. Code Ann. §3101  (Lexis 2008); Tenn. Const., Art. XI, §18. The petitioners are 14 same-sex couples and two men whose same-sex partners are deceased. The respondents are state officials responsible for enforcing the laws in question. The petitioners claim the respondents violate the Fourteenth Amendment by denying them the right to marry or to have their marriages, lawfully performed in another State, given full recognition.
 
